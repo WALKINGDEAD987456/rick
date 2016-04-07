@@ -125,7 +125,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>test1</title>
 <link>$doregex[select_Url]</link>
 <regex>
@@ -150,7 +150,7 @@
 </item>
 http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480
 
-<item>
+
 <title>test2</title>
 <link>$doregex[get_sxstream]|Referer=http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&height=480&amp;User-Agent=iPhone</link>
 <regex>
