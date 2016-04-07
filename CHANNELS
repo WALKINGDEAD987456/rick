@@ -106,8 +106,9 @@
 </regex>
 </item>
 
+<item>
 <title>LIVE</title>
-<link>http://edge-us-east.streamboat.tv/live/wwe/index.m3u8?s=fb8b26287a4674fbd979bd2717c058e4699eb86e</link>
+<link>http://live1.greenlie.org:8081/live/foxsports2-hq/playlist.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
