@@ -1792,6 +1792,20 @@ httpsvideo01-lax.streamup.com%2Fapp%2Fstartek2s-channel%2Fplaylist.m3u8&h=LAQHQu
 </item>
 
 <item>
+<title>LIVE GOLF</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart>http://millionairesconcierge.com/wp-content/uploads/2014/01/the-masters.png</fanart>
+</item>
+
+<item>
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
