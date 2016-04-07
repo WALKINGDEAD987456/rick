@@ -94,6 +94,17 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>Premiersports</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/premiersports.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
 
 <title>LIVE</title>
 <link>http://edge-us-east.streamboat.tv/live/wwe/index.m3u8?s=fb8b26287a4674fbd979bd2717c058e4699eb86e</link>
