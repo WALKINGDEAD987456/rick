@@ -25,6 +25,15 @@
 </item>
 
 <item>
+<title>[COLOR red]LIVE SPORTS[/COLOR] HQ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=sport365&amp;url=sss</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</thumbnail>
+<fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLOR red]MORE LIVE SPORTS[/COLOR] [COLOR yellow]LATEST SPORTSDEVIL NEEDED[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/streamsports.me.cfg&amp;mode=1</jsonrpc>
@@ -49,11 +58,6 @@
 </item>
 
 
-<title>[COLOR red]MIXTURE[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=57&amp;name=IpBox sports (Beta1 requires F4mTester)&amp;url=sss</jsonrpc>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR white]================================================================================================[/COLOR]</title>
