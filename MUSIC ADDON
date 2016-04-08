@@ -25,12 +25,14 @@
  
  
  
-
-    <name>[COLOR red]*** ONLINE [/COLOR][COLOR blue] ALBUMS ***[/COLOR]</name>
-<thumbnail>http://cdn.chartattack.com/wp-content/uploads/2015/01/new-albums-you-can-stream-now.jpg</thumbnail>
+<channels>
+  
+<channel>
+    <name>[COLOR red]DJ UPLOADS[/COLOR] DM ME TO GET ADDED[COLOR blue][/COLOR]</name>
+<thumbnail>http://www.renders-graphiques.fr/image/upload/normal/Dj_Render.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://dl.dropboxusercontent.com/s/fc9pwcbt6h70zki/ALBUMS.XML?dl=0</externallink>
-<fanart>http://data2.whicdn.com/images/67870496/original.jpg</fanart>
+<externallink></externallink>
+<fanart>http://www.digitaldjtips.com/wp-content/uploads/2016/03/dj-1204x642.jpg</fanart>
 <info>NEW ONLINE ALBUMS READY TO STREAM</info>
 </channel>
 </channels>
