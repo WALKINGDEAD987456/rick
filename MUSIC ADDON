@@ -9,7 +9,9 @@
 </info>
  
  
-
+<channels>
+  
+<channel>
     <name>[COLOR red]NEW VIDEOS[/COLOR][COLOR blue] ADDED[/COLOR]</name>
 <thumbnail>http://annecytraditions.free.fr/2/images/system/new-2.png</thumbnail>
 <link>http://ignoreme</link>
@@ -37,8 +39,7 @@
  
  
  
- 
- 
+
     <name>[COLOR red]UK TOP[/COLOR][COLOR blue] MUSIC VIDEOS[/COLOR]</name>
 <thumbnail>http://www.radioclick.ro/wp-content/uploads/2014/02/Top40-new.jpg</thumbnail>
 <link>http://ignoreme</link>
