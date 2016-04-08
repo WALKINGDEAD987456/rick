@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR red]LIVE SPORTS[/COLOR] HQ [/COLOR]</title>
+<title>[COLOR red]LIVE SPORTS[/COLOR] HQ</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=sport365&amp;url=sss</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</thumbnail>
