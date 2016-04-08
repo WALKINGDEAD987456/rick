@@ -1,8 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1,test
+#EXTINF:-1,@DJAshleyAmore Easter mix
 https://dl.dropboxusercontent.com/s/ql883r8kkv3xt0u/Easter%20Mix.mp3?dl=0
-
-
-http://dl.dropboxusercontent.com/s/c633cx7ie0sv0kf/NEW%20VIDEOS.XML?dl=0
+#EXTINF:-1,@DJAshleyAmore Deep House mix
+https://dl.dropboxusercontent.com/s/0qhhbsv25iiju10/Deep%20House.mp3?dl=0
+#EXTINF:-1,@DJAshleyAmore NYE
+https://dl.dropboxusercontent.com/s/8r59hyidrvk5trd/NYE%20MIX.mp3?dl=0
