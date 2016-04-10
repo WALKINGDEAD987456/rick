@@ -136,13 +136,14 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE</title>
-<link>rtmp://185.63.255.60:80/live playpath=qodhsej  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedo.php?live=qodhsej&vw=688&vh=387 token=%Zrey(nKa@#Z</link>
+<item>
+<title>test</title>
+<link>rtmp://37.148.166.17/live/ playpath=sarena1  swfUrl=http://ssl.p.jwpcdn.com/player/v/7.1.5/jwplayer.flash.swf  pageUrl=http://www.pushpublish.tv/player.php?channel=sarena1&vw=630&vh=450&domain=www.streamsarena.eu</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
+rtmp://37.148.166.17/live/ playpath=sarena1  swfUrl=http://ssl.p.jwpcdn.com/player/v/7.1.5/jwplayer.flash.swf  pageUrl=http://www.pushpublish.tv/player.php?channel=sarena1&vw=630&vh=450&domain=www.streamsarena.eu
 
 
 
