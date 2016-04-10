@@ -224,6 +224,25 @@ https://hls.goodgame.ru/hls/65996.m3u8
 </item>
 
 <item>
+<title>SUN VS LEI</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+<item>
 <title>LIV VS STOKE</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
@@ -247,6 +266,23 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>TOTT VS MANU</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <title></title>
