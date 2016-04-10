@@ -136,9 +136,9 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>test</title>
-<link>rtmp://37.148.166.17/live/ playpath=sarena1  swfUrl=http://ssl.p.jwpcdn.com/player/v/7.1.5/jwplayer.flash.swf  pageUrl=http://www.pushpublish.tv/player.php?channel=sarena1&vw=630&vh=450&domain=www.streamsarena.eu</link>
+<item>
+<title>LIVE</title>
+<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
