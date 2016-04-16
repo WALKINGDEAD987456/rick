@@ -8,7 +8,7 @@
 <regex><name>rtmp</name>
 <expres>file:'(.*?)'</expres>
 <page>http://hdcast.org/embedlive1.php?u=mamahdskynews&vw=680&vh=490&domain=mamahd.com</page>
-<referer>http://mamahd.com/front/embed/833</referer>
+<referer>http://mamahd.com/front/embed/979</referer>
 </regex>
 <regex><name>file</name>
 <expres>fid="(.*?)"</expres>
