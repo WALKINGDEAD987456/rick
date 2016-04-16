@@ -192,7 +192,21 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>LIVE [COLOR cyan]UFC FIGHT NIGHT EARLY PRELIMS[/COLOR]</title>
+<link>$doregex[rtmp] playpath=$doregex[file] token=SECURET0KEN#yw%.?()@W! swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swfT$L$ flashver=WIN\2019,0,0,185 swfVfy=1 live=1 timeout=13 pageUrl=http://www.hdcast.org/</link>
+<regex><name>rtmp</name>
+<expres>file:'(.*?)'</expres>
+<page>http://hdcast.org/embedlive1.php?u=mamahdvch1&vw=680&vh=490&domain=mamahd.com</page>
+<referer>http://mamahd.com/front/embed/934</referer>
+</regex>
+<regex><name>file</name>
+<expres>fid="(.*?)"</expres>
+<page>http://mamahd.com/front/embed/934</page>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
