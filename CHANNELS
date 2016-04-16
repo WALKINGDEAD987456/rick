@@ -189,23 +189,23 @@ https://hls.goodgame.ru/hls/65996.m3u8
 
 
 
-
+[COLOR cyan]MAN CITY VS PSG[/COLOR]
 
 
 <item>FOX 1
-<title>LIVE [COLOR cyan]MAN CITY VS PSG[/COLOR]</title>
+<title>LIVE</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>FOX 1
-<title>LIVE [COLOR cyan]MAN CITY VS PSG[/COLOR]</title>
+<title>LIVE</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE [COLOR cyan]MAN CITY VS PSG[/COLOR]</title>
+<title>LIVE</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
@@ -218,7 +218,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 </item>
 
 <item>
-<title>LIVE [COLOR cyan]MAN CITY VS PSG[/COLOR]</title>
+<title>LIVE</title>
 <link>$doregex[rtmp] playpath=$doregex[file] token=SECURET0KEN#yw%.?()@W! swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swfT$L$ flashver=WIN\2019,0,0,185 swfVfy=1 live=1 timeout=13 pageUrl=http://www.hdcast.org/</link>
 <regex><name>rtmp</name>
 <expres>file:'(.*?)'</expres>
@@ -232,7 +232,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 <fanart></fanart>
 </item>
-<item>
+
 <title>LIVE [COLOR cyan]REAL MADRID VS WOLFSBURG[/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[file] token=SECURET0KEN#yw%.?()@W! swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swfT$L$ flashver=WIN\2019,0,0,185 swfVfy=1 live=1 timeout=13 pageUrl=http://www.hdcast.org/</link>
 <regex><name>rtmp</name>
@@ -248,7 +248,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE [COLOR cyan]REAL MADRID VS WOLFSBURG[/COLOR]</title>
 <link>http://api.iptv.ink/pl.m3u8?ch=62326989</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
