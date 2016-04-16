@@ -193,11 +193,19 @@ https://hls.goodgame.ru/hls/65996.m3u8
 [COLOR cyan]MAN CITY VS PSG[/COLOR]
 <item>
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT EARLY PRELIMS[/COLOR]</title>
-<link>rtmp://185.82.215.47:3579/vod/ playpath=sopa2?e=1460842595&st=2BLj7ptIuILGaQZKH1iucA376176  swfUrl=http://www.omnipola.com/flowplayer-3.2.16.swf  pageUrl=http://www.omnipola.com/w3.php?hash=sopa2&crn=472214594.02310944
-
-</link>
+<link>rtmp://185.82.215.47:3579/vod/ playpath=sopa2?e=1460842595&st=2BLj7ptIuILGaQZKH1iucA376176  swfUrl=http://www.omnipola.com/flowplayer-3.2.16.swf  pageUrl=http://www.omnipola.com/w3.php?hash=sopa2&crn=472214594.02310944</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE [COLOR cyan]UFC FIGHT NIGHT EARLY PRELIMS[/COLOR]</title>
+<link>rtmp://193.150.129.2:3579/vod/ playpath=sopa2?e=1460843046&st=msaRPK1jDzYWdNAiuI--IQ113361  swfUrl=http://www.omnipola.com/flowplayer-3.2.16.swf  pageUrl=http://www.omnipola.com/w4.php?hash=sopa2&crn=186108198.22615454</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
 
 <item>FOX 1
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
