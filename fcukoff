@@ -172,14 +172,17 @@
 
 
 
-
-    <name>CANADIAN SPORTS CHANNELS</name>
-<thumbnail>http://www.cbc.ca/sports-content/blogs/scottrussell/assets_c/2012/09/620-sportsday-thumb-620xauto-230207.jpg</thumbnail>
+<channels>
+ 
+<channel>
+    <name>CLASSIC WWE MATCHES</name>
+<thumbnail>http://i66.tinypic.com/fm7xbr.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
-<fanart>http://mtltimes.ca/wp-content/uploads/2015/02/Canada_flag-7.jpg</fanart>
-<info>ALL SPORTSNET CHANNELS AND TSN 1,2,3,4 AND 5</info>
-
+<externallink>http://is.gd/CLASSICWWE</externallink>
+<fanart></fanart>
+<info>https://lh3.googleusercontent.com/proxy/irS1BCWXA3tZ1xVHk9_PA33h9Ubkw_QHmcdTUafuqrjS1QEbUKNODUsF0LzUisSNjPaSEFH18SCfgCQ3hS8CVA=w506-h285-n</info>
+</channel>
+</channels>
 
 
 
