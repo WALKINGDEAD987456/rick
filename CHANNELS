@@ -209,6 +209,13 @@ https://hls.goodgame.ru/hls/65996.m3u8
 </item>
 
 <item>
+<title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
+<sportsdeviL>http://wizhdsports.com/live/stream29.php</sportsdevil>
+<referer>http://wizhdsports.com/live/stream29.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AN MAIN[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/16.ts</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
