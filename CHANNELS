@@ -177,22 +177,28 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>LIVE [COLOR cyan]BOURNEMOUTH VS LIVERPOOL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</item>
 
 
 [COLOR cyan]MAN CITY VS PSG[/COLOR]
-<item>
+
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
 <link>rtmp://185.82.215.47:3579/vod/ playpath=sopa2?e=1460842595&st=2BLj7ptIuILGaQZKH1iucA376176  swfUrl=http://www.omnipola.com/flowplayer-3.2.16.swf  pageUrl=http://www.omnipola.com/w3.php?hash=sopa2&crn=472214594.02310944</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
 <link>rtmp://193.150.129.2:3579/vod/ playpath=sopa2?e=1460843046&st=msaRPK1jDzYWdNAiuI--IQ113361  swfUrl=http://www.omnipola.com/flowplayer-3.2.16.swf  pageUrl=http://www.omnipola.com/w4.php?hash=sopa2&crn=186108198.22615454</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[file] token=SECURET0KEN#yw%.?()@W! swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swfT$L$ flashver=WIN\2019,0,0,185 swfVfy=1 live=1 timeout=13 pageUrl=http://www.hdcast.org/</link>
 <regex><name>rtmp</name>
@@ -208,7 +214,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
 <sportsdeviL>http://wizhdsports.com/live/stream29.php</sportsdevil>
 <referer>http://wizhdsports.com/live/stream29.php</referer>
@@ -247,7 +253,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 </item>
 
 
-<item>
+
 <title>LIVE</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
@@ -260,7 +266,7 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE</title>
 <link>$doregex[rtmp] playpath=$doregex[file] token=SECURET0KEN#yw%.?()@W! swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swfT$L$ flashver=WIN\2019,0,0,185 swfVfy=1 live=1 timeout=13 pageUrl=http://www.hdcast.org/</link>
 <regex><name>rtmp</name>
