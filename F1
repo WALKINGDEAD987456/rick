@@ -251,3 +251,31 @@
 <thumbnail>http://hdwallpaperia.com/wp-content/uploads/2014/01/China-Flag-Abstract-Wallpaper-Image.jpg</thumbnail>
 <fanart>http://i58.tinypic.com/2r1zpep.jpg</fanart>
 <item>
+
+<item>
+<title>CHINA RACE PT 1</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>720p.*"(http.*?)"</expres>      
+<page>http://videoapi.my.mail.ru/videos/mail/burningwhee1s/video/_myvideo/2249.json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://hdwallpaperia.com/wp-content/uploads/2014/01/China-Flag-Abstract-Wallpaper-Image.jpg</thumbnail>
+<fanart>http://i58.tinypic.com/2r1zpep.jpg</fanart>
+<item>
+
+<item>
+<title>CHINA RACE PT 2</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres>720p.*"(http.*?)"</expres>      
+<page>http://videoapi.my.mail.ru/videos/mail/burningwhee1s/video/_myvideo/2250.json</page>
+<referer>http://my.mail.ru/</referer>
+<cookiejar></cookiejar>
+</regex>
+<thumbnail>http://hdwallpaperia.com/wp-content/uploads/2014/01/China-Flag-Abstract-Wallpaper-Image.jpg</thumbnail>
+<fanart>http://i58.tinypic.com/2r1zpep.jpg</fanart>
+<item>
