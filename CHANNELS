@@ -227,10 +227,10 @@ https://hls.goodgame.ru/hls/65996.m3u8
 <fanart></fanart>
 </item>
 
-
-<title>LIVE [COLOR cyan]UFC FIGHT NIGHT PRELIMS AND MAIN[/COLOR]</title>
-<sportsdeviL>http://wizhdsports.com/live/stream29.php</sportsdevil>
-<referer>http://wizhdsports.com/live/stream29.php</referer>
+<item>
+<title>TEST</title>
+<sportsdeviL>http://wizhdsports.com/live/stream6.php</sportsdevil>
+<referer>http://wizhdsports.com/live/stream6.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
