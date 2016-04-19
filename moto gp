@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-<item>
-<title>MOTO-GP QATAR test</title>
-<link>http://167.114.135.106/MotoGP/MotoGP%202016%20-%20Round%2002%20-%20MotoGP%20RACE%20-%20Argentina%20720p/02%20-%20MotoGP%20RACE%20-%20Argentina.mp4</link>
-<thumbnail>http://www.flagz.co.nz/wp-content/uploads/2015/04/Qatar-flag.jpg</thumbnail>
-<fanart>https://lincolnshirebiker.files.wordpress.com/2015/03/losail-circuit-by-night.jpg</fanart>
-</item>
+
 
 <item>
 <title>MOTO-GP QATAR QUALIFYING</title>
@@ -23,8 +18,26 @@
 <fanart>https://lincolnshirebiker.files.wordpress.com/2015/03/losail-circuit-by-night.jpg</fanart>
 </item>
 
+
+
 <item>
-<title>MOTO-GP AMERICAS QUALIFYING</title>
+<title>MOTO-GP ARGENTINA QUALIFYING</title>
+<link>http://167.114.135.106/MotoGP/MotoGP%202016%20-%20Round%2002%20-%20Qualifying%20%28FP4%2C%20Q1%2C%20Q2%29%20-%20Argentina%20720p/04%20-%20MotoGP%20Qualifying%20Two%20%28Q2%29%20-%20Argentina.mp4</link>
+<thumbnail>http://www.freelargeimages.com/wp-content/uploads/2014/11/Argentina_flag-6.jpg</thumbnail>
+<fanart>http://www.roadracingworld.com/RFS/2016/04/03/d61f1e39-4064-4763-9d0f-003043815839.jpg?size=630</fanart>
+</item>
+
+<item>
+<title>MOTO-GP ARGENTINA RACE</title>
+<link>http://167.114.135.106/MotoGP/MotoGP%202016%20-%20Round%2002%20-%20MotoGP%20RACE%20-%20Argentina%20720p/02%20-%20MotoGP%20RACE%20-%20Argentina.mp4</link>
+<thumbnail>http://www.freelargeimages.com/wp-content/uploads/2014/11/Argentina_flag-6.jpg</thumbnail>
+<fanart>http://www.roadracingworld.com/RFS/2016/04/03/d61f1e39-4064-4763-9d0f-003043815839.jpg?size=630</fanart>
+</item>
+
+
+
+<item>
+<title>MOTO-GP AUSTIN QUALIFYING</title>
 <link>http://vidzi.tv/6oq03quk9m0v.html</link>
 <thumbnail>http://ak.picdn.net/shutterstock/videos/2406017/thumb/1.jpg</thumbnail>
 <fanart>http://photos.motogp.com/2015/01/29/159751.middle.jpg</fanart>
@@ -32,7 +45,7 @@
 
 
 <item>
-<title>MOTO-GP AMERICAS RACE</title>
+<title>MOTO-GP AUSTIN RACE</title>
 <link>http://vidzi.tv/s33hv5zjpyfp.html</link>
 <thumbnail>http://ak.picdn.net/shutterstock/videos/2406017/thumb/1.jpg</thumbnail>
 <fanart>http://photos.motogp.com/2015/01/29/159751.middle.jpg</fanart>
