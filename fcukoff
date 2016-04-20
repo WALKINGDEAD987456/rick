@@ -122,6 +122,19 @@
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 </channel>
 </channels>
+
+<channels>
+ 
+<channel>
+    <name>FOOTBALL BANTER AND NEWS</name>
+<thumbnail>http://i66.tinypic.com/s2sm83.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
  
 <channels>
  
@@ -135,14 +148,7 @@
 </channels>
 
 
-    <name>CLUB TV</name>
-<thumbnail>http://s30.postimg.org/u2ehor06p/CLUBS.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://www.4legends.co.uk/MoneySports/CLUBTV.XML</externallink>
-<fanart>http://www.4legends.co.uk/MoneySports/badge.png</fanart>
-<info></info>
-</channel>
-</channels>
+
 
  
 
