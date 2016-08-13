@@ -186,7 +186,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>UFC</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
