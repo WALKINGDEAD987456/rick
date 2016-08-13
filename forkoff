@@ -133,7 +133,16 @@
 </channels>
 
 
-
+<channels>
+ 
+<channel>
+<name>2016/17 CUP COMPITITION HIGHLIGHTS</name>
+<thumbnail>http://hhfc.org.au/wp-content/uploads/2012/09/Football-and-trophy-without-shadow.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+</channel>
+</channels>
 
 
 <name>F1 REPLAYS 2016</name>
