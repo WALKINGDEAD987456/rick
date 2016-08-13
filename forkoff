@@ -57,7 +57,7 @@
     <name>LIVE SPORTS LINKS</name>
 <thumbnail>http://i63.tinypic.com/2eph4c5.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/CHANNELS.XML</externallink>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/live</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 <info></info>
 </channel>
@@ -70,7 +70,7 @@
     <name>SPORTS NEWS</name>
 <thumbnail>http://i63.tinypic.com/t5h8wg.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/KK.XML</externallink>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/newshq</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 <info></info>
 </channel>
@@ -114,7 +114,7 @@
     <name>PREMIER LEAGUE</name>
 <thumbnail>http://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/09/09/premier-league.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/a.xml</externallink>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/champ</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 <info></info>
 </channel>
@@ -127,7 +127,7 @@
 <name>EFL</name>
 <thumbnail>http://www.itfcdirect.com/assets/UNITEDKINGDOM/images/Product/MagicZoom/1/L/93419999.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/footballshows.xml</externallink>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/prem</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 </channel>
 </channels>
