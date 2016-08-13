@@ -186,6 +186,23 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>UFC</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>source src=(http://shadow.go.ro/sdwnet/gett.php/.*?)"</expres>
+<page>http://shadow.go.ro/sdwnet/channels/uktv/player/bt-sport2.php</page>
+<referer>http://www.shadow-net.org/channels/BT-Sport-2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+</item>
+
+
+
+
+
+
 <title>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <sportsdevil>http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html</sportsdevil>
 <referer>http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html</referer>
