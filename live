@@ -147,6 +147,27 @@
 </item>
 
 <item>
+<title>test</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,245 live=1 timeout=13 pageUrl=http://sawlive.tv/embed/watch/EzYzcwYjMxOGU0YzNiYzJmZTI4ODNh/YTQ0NHJmOmVmNTg3YjFjYmI3NzRiMTk1M2MzOThkMWQ2NTE5NGY4OjJlZTFhYmNjOT</link>
+<regex><name>rtmp</name><expres>streamer', '(.*?)'</expres>
+<page>http://sawlive.tv/embed/watch/hiZjAwYmYzMmVkNzM2YzY3M2ExMmFjYQ__/c2FyZW5hMTo3ZDYzOTVjZWU4NjAyY2RmMmY2Y2RjY2UxNjQ5OTY0Njo0ZDRjMDY4Zj</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
+<referer>http://www.televisaofutebol.com/sawlive.php?chname=a444rf</referer>
+</regex>
+<regex><name>file</name><expres>file', '(.*?)'</expres>
+<page>http://sawlive.tv/embed/watch/hiZjAwYmYzMmVkNzM2YzY3M2ExMmFjYQ__/c2FyZW5hMTo3ZDYzOTVjZWU4NjAyY2RmMmY2Y2RjY2UxNjQ5OTY0Njo0ZDRjMDY4Zj</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
+<referer>http://www.televisaofutebol.com/sawlive.php?chname=a444rf</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>http://185.105.4.112:1935/live/sppp1/playlist.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
