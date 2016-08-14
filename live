@@ -211,9 +211,15 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]tdt[/COLOR]</title>
+<sportsdevil>http://streamm.eu/examples/osmf/3.php</sportsdevil>
+<referer>http://streamm.eu/examples/osmf/3.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
-
+http://streamm.eu/examples/osmf/3.php
 
 
 <title>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
@@ -230,7 +236,7 @@
 
 http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>rtmp://88.150.190.171:1935/live playpath=streammeu3  swfUrl=http://streamm.eu/examples/osmf/StrobeMediaPlayback.swf pageUrl=http://streamm.eu/examples/osmf/3.php</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
