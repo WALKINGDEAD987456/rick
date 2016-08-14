@@ -148,6 +148,12 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<link>http://185.105.4.112:1935/live/sppp1/playlist.m3u8</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>rtmp://88.150.190.171:1935/live playpath=streammeu3 swfUrl=http://streamm.eu/examples/osmf/StrobeMediaPlayback.swf pageUrl=http://streamm.eu/examples/osmf/3.php?live=750 live=1</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
