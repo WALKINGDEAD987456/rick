@@ -231,11 +231,21 @@ http://streamm.eu/examples/osmf/3.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<title>LIVE - FOOTBALL [COLOR red]FLEETWOOD TOWN VS LEEDS UNITED[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream2.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream2.php</referer>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream4.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 
 http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html
 
