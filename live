@@ -148,11 +148,17 @@
 
 
 
-<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;streamtype=TSDOWNLOADER;name=</link>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]ARSENAL VS LIVERPOOL[/COLOR] [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvportal.online:2500/live/zakir/zakir/2964.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4332.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]LUTON TOWN VS ASTON VILLA[/COLOR]</link>
