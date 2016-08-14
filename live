@@ -259,7 +259,41 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 
 
 
+<item>
+<title>SPORTSNET WORLD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail></thumbnail>
+</item>
 
+
+<title>[COLOR white][B]SPORTSNET WEST HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/a/af/Sportsnet_west.png/revision/latest?cb=20120212022806</thumbnail>
+</item>
+
+
+<title>[COLOR white][B]SPORTSNET EAST HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/79/Sportsnet_east.png/revision/latest?cb=20120212022439</thumbnail>
+</item>
+
+
+<title>[COLOR white][B]SPORTSNET 360 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png</thumbnail>
+</item>
+
+
+<title>[COLOR white][B]SPORTSNET ONTARIO HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds185.cdnl3nl.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest?cb=20120212021015</thumbnail>
+</item>
+
+
+<title>[COLOR white][B]SPORTSNET PACIFIC HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043</thumbnail>
+</item>
 
 
 
