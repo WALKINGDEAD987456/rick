@@ -236,13 +236,13 @@ http://streamm.eu/examples/osmf/3.php
 
 http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html
 
-
+<item>
 <title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>rtmp://88.150.190.171:1935/live playpath=streammeu3  swfUrl=http://streamm.eu/examples/osmf/StrobeMediaPlayback.swf pageUrl=http://streamm.eu/examples/osmf/3.php</link>
+<link>rtmp://88.150.190.171:1935/live playpath=streammeu3 swfUrl=http://streamm.eu/examples/osmf/StrobeMediaPlayback.swf pageUrl=http://streamm.eu/examples/osmf/3.php?live=750 live=1</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+      rtmp://85.132.48.75:1935/livepkgr playpath=livestream3 swfUrl=http://www.lidertv.com/swfs/StrobeMediaPlayback.swf pageUrl=http://www.lidertv.com/az/onlinetv.html?live=750 live=1
 <title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hyper.de1-eu.com:8000/live/haddad/haddad/4533.ts&amp;streamtype=TSDOWNLOADER;name=COPA AMERICA FOOTBALL</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
