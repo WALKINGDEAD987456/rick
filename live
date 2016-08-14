@@ -230,8 +230,9 @@
 
 http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html
 
+<item>
 <title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hyper.de1-eu.com:8000/live/haddad/haddad/4533.ts&amp;streamtype=TSDOWNLOADER;name=COPA AMERICA FOOTBALL</link>
+<link>rtmp://88.150.190.171:1935/live playpath=streammeu3  swfUrl=http://streamm.eu/examples/osmf/StrobeMediaPlayback.swf pageUrl=http://streamm.eu/examples/osmf/3.php</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
@@ -305,6 +306,7 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 <link>plugin://plugin.video.f4mTester/?url=http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043</thumbnail>
 </item>
+
 
 
 
