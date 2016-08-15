@@ -152,56 +152,47 @@
 
 
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>http://edge-us-east.streamboat.tv/live/sarena1/index.m3u8?s=ba947cde5f7905ffc4abf5ac9acd5a3c729ae1e9</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
-<link>rtmp://185.82.215.46:3579/vod/ playpath=panda1?e=1471183034&st=73tkY1VG5CyEP-FDUyEHxg181098  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w2.php?hash=panda1&crn=886013589.3552635</link>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
+<link></link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
-<link>rtmp://185.82.215.45:3579/vod/ playpath=panda1?e=1471183416&st=wMVR8WoH9XD0p5YkEEJKLw116267  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w1.php?hash=panda1&crn=886289499.3847334</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-<item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
-<link>rtmp://185.82.215.45:3579/vod/ playpath=panda1?e=1471184070&st=Xj76vW6BMazxzpUrwB7pFg179933  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w1.php?hash=panda1&crn=190236506.310689</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 
-<item>
+
+
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvportal.online:2500/live/zakir/zakir/2964.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/59.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1109.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<title>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
+tle>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4332.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]LUTON TOWN VS ASTON VILLA[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
@@ -246,7 +237,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]tdt[/COLOR]</title>
 <sportsdevil>http://leakewis.pw/stream.php?id=5963&cache=4&width=720&height=420&stretching=uniform&p=1&c=0</sportsdevil>
 <referer>http://leakewis.pw/stream.php?id=5963&cache=4&width=720&height=420&stretching=uniform&p=1&c=0</referer>
@@ -265,14 +256,14 @@ http://streamm.eu/examples/osmf/3.php
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS MAN UTD[/COLOR] [COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream4.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream4.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
