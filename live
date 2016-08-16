@@ -162,8 +162,18 @@
 <link></link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
-
-
+<item>
+<title>>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>source src=(http://shadow.go.ro/sdwnet/gett.php/.*?)"</expres>
+<page>http://shadow.go.ro/sdwnet/channels/uktv/player/bt-sport2.php</page>
+<referer>http://www.shadow-net.org/channels/BT-Sport-2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 
@@ -252,10 +262,10 @@ http://streamm.eu/examples/osmf/3.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
-<sportsdevil>http://www.stadium-live.biz/ch_130code.html</sportsdevil>
-<referer>http://www.stadium-live.biz/ch_130code.html</referer>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_137code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_137code.html</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
