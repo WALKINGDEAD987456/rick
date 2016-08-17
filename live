@@ -163,7 +163,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 <item>
-<title>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
 <name>getM3U8</name>
@@ -178,13 +178,13 @@
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/58.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
+<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/58.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 <item>
-<title>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/riadh1681/chaaben1681/1309.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]ARSENAL VS LIVERPOOL[/COLOR]</link>
+<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/riadh1681/chaaben1681/1309.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
@@ -263,7 +263,7 @@ http://streamm.eu/examples/osmf/3.php
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]STEAUA BUCHAREST VS MAN CITY[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
 <sportsdevil>http://www.stadium-live.biz/ch_137code.html</sportsdevil>
 <referer>http://www.stadium-live.biz/ch_137code.html</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
