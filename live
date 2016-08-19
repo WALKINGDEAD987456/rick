@@ -146,21 +146,10 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>TEST2</title>
-<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,245 live=1 timeout=13 pageUrl=http://sawlive.tv/embed/watch/EzYzcwYjMxOGU0YzNiYzJmZTI4ODNh/YTQ0NHJmOmVmNTg3YjFjYmI3NzRiMTk1M2MzOThkMWQ2NTE5NGY4OjJlZTFhYmNjOT</link>
-<regex><name>rtmp</name><expres>streamer', '(.*?)'</expres>
-<page>http://sawlive.tv/embed/watch/JlYjRjM2JlZGEyZDNiN2U5NWEzZmY1ZTcyZg__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo1YTFjOG</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://sawlive.tv/embed/zunoxomega</referer>
-</regex>
-<regex><name>file</name><expres>file', '(.*?)'</expres>
-<page>http://sawlive.tv/embed/watch/JlYjRjM2JlZGEyZDNiN2U5NWEzZmY1ZTcyZg__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo1YTFjOG</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://sawlive.tv/embed/zunoxomega</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]MAN UTD VS SOUTHAMPTON[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
@@ -219,10 +208,7 @@
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_1600.f4m?token=AgAKb25NZXRhRGF0YQgAAAAKAAhkdXJhdGlvbgBBa3dAAAAAAAAMY2FuU2Vla1RvRW5kAD/wAAAAAAAAAAx2aWRlb2NvZGVjaWQAQBwAAAAAAAAABXdpZHRoAECUAAAAAAAAAAZoZWlnaHQAQIaAAAAAAAAACWZyYW1lcmF0ZQBAPfhR4AAAAAAMYXVkaW9jb2RlY2lkAEAkAAAAAAAAAA1hdWRpb2NoYW5uZWxzAEAAAAAAAAAAAA9hdWRpb3NhbXBsZXJhdGUAQOWIgAAAAAAADWF1ZGlvZGF0YXJhdGUAQFAAAAAAAAAAAAk=</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 tle>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.252.93:8000/live/miroxtoip/miroxtoip/4332.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]LUTON TOWN VS ASTON VILLA[/COLOR]</link>
