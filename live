@@ -147,40 +147,16 @@
 </item>
 
 <item>
-<title>TEST112</title>
+<title>TEST2</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,245 live=1 timeout=13 pageUrl=http://sawlive.tv/embed/watch/EzYzcwYjMxOGU0YzNiYzJmZTI4ODNh/YTQ0NHJmOmVmNTg3YjFjYmI3NzRiMTk1M2MzOThkMWQ2NTE5NGY4OjJlZTFhYmNjOT</link>
 <regex><name>rtmp</name><expres>streamer', '(.*?)'</expres>
 <page>http://sawlive.tv/embed/watch/JlYjRjM2JlZGEyZDNiN2U5NWEzZmY1ZTcyZg__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo1YTFjOG</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://www.televisaofutebol.com/sawlive.php?chname=a444rf</referer>
+<referer>http://sawlive.tv/embed/zunoxomega</referer>
 </regex>
 <regex><name>file</name><expres>file', '(.*?)'</expres>
 <page>http://sawlive.tv/embed/watch/JlYjRjM2JlZGEyZDNiN2U5NWEzZmY1ZTcyZg__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo1YTFjOG</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://www.televisaofutebol.com/sawlive.php?chname=a444rf</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>TEST11</title>
-<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,226 live=1 timeout=20 pageUrl=http://sawlive.tv/</link>
-<regex>
-<name>rtmp</name>
-<expres>streamer', '(.*?)'</expres>
-<page>http://sawlive.tv/embed/watch/hlYWM4NTdjNDgxNjAwZGEzZjcxNDkzZWE2Yw__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo4NDk0Nz</page>
-<referer>http://sawlive.tv/embed/zunoxomega</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file', '(.*?)'</expres>
-<page>http://sawlive.tv/embed/watch/hlYWM4NTdjNDgxNjAwZGEzZjcxNDkzZWE2Yw__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo4NDk0Nz</page>
 <referer>http://sawlive.tv/embed/zunoxomega</referer>
 </regex>
 <thumbnail></thumbnail>
@@ -188,38 +164,14 @@
 </item>
 
 
-<title>TEST</title>
-<link>$doregex[rtmp] swfUrl=http://netspor9.tv/embed/embedPlayer.swf pageUrl=http://netspor9.tv live=1 timeout=15</link>
-<regex>
-<name>rtmp</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import re, base64, urllib
-    strdata = re.findall('data="(.*?)"', page_data)[0]
-    values = re.search(r'secury=([^&]*)&serverID=([^&]*)&getChannel=([^"]*)', strdata)
-    secury = values.group(1)
-    param1 = values.group(2)
-    playpath = 'ch' + values.group(3)
-    param2 = 'hello'
-    streamer = ''
-    param1 = urllib.unquote(param1)
-    param1 = base64.b64decode(param1)
-    for _loc4_ in range(0,len(param1)):
-        _loc5_ = param1[_loc4_]
-        _loc6_ = param2[_loc4_ % len(param2) - 1]
-        _loc7_ = ord(_loc5_[0])
-        _loc8_ = ord(_loc6_[0])
-        _loc9_ = _loc7_ - _loc8_
-        _loc5_ = chr(_loc9_)
-        streamer = streamer + _loc5_
-    rtmppath = 'rtmp://' + streamer + ':1935/edge' + ' app=edge/?' + secury + ' playpath=' + playpath
-    return rtmppath
-]]></expres>
-<page>http://netspor9.tv/embed/index.php?id=31</page>
-<referer>http://netspor9.tv/</referer>
-</regex>
-<thumbnail></thumbnail>
-</item>
+
+
+
+
+
+
+
+
 
 
 
