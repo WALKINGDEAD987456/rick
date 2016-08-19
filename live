@@ -319,10 +319,10 @@ http://streamm.eu/examples/osmf/3.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS WEST HAM UTD[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream5.php</referer>
+<item>
+<title>test</title>
+<sportsdevil>http://sawlive.tv/embed/zunoxomega</sportsdevil>
+<referer>http://sawlive.tv/embed/zunoxomega</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
