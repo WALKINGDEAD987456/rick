@@ -259,7 +259,7 @@ tle>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE</title>
 <sportsdevil>http://tv.moviesntvlive.com/frames/nbcsninner.php</sportsdevil>
 <referer>http://tv.moviesntvlive.com/frames/nbcsninner.php</referer>
@@ -276,10 +276,10 @@ http://streamm.eu/examples/osmf/3.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
-<sportsdevil>http://www.stadium-live.biz/ch_137code.html</sportsdevil>
-<referer>http://www.stadium-live.biz/ch_137code.html</referer>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]MAN UTD VS SOUTHAMPTON[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_130code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_130code.html</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
