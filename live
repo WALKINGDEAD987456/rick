@@ -159,7 +159,11 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>LIVE - FOOTBALL [COLOR red]MAN UTD VS SOUTHAMPTON[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/cheryl/cheryl/6877.m3u8&amp;streamtype=TSDOWNLOADER;name=[COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 
@@ -193,12 +197,8 @@
 </item>
 
 
+http://cp.dmbshare.net:8000/live/cheryl/cheryl/6877.m3u8
 
-
-<title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/58.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 <title>LIVE - FOOTBALL [COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/280.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]CELTIC VS HAPOEL BEER SHEVA[/COLOR]</link>
