@@ -146,9 +146,26 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-
 <item>
+<title>TEST</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,226 live=1 timeout=20 pageUrl=http://sawlive.tv/</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer', '(.*?)'</expres>
+<page>http://sawlive.tv/embed/watch/FiNWQ5ZGUyYzExMjE0NmIwZGQzOTUzNDhkNQ__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo5ZGI4Y2</page>
+<referer>http://livesports15.ucoz.com/wizi/ch3.html</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file', '(.*?)'</expres>
+<page>http://sawlive.tv/embed/watch/FiNWQ5ZGUyYzExMjE0NmIwZGQzOTUzNDhkNQ__/enVub3hvbWVnYTo0ODExYTg0YTJmNWYyZDhhYTliZjk4ZDgyOGZhMzBhYTo5ZGI4Y2</page>
+<referer>http://livesports15.ucoz.com/wizi/ch3.html</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 <title>TEST</title>
 <link>$doregex[rtmp] swfUrl=http://netspor9.tv/embed/embedPlayer.swf pageUrl=http://netspor9.tv live=1 timeout=15</link>
 <regex>
