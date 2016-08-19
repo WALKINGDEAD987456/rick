@@ -147,7 +147,7 @@
 </item>
 
 <item>
-<title>TEST</title>
+<title>TEST1</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,226 live=1 timeout=20 pageUrl=http://sawlive.tv/</link>
 <regex>
 <name>rtmp</name>
