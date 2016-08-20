@@ -155,17 +155,7 @@
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS MAN CITY[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-127</page>
-<referer>http://widestream.io/</referer>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 <item>
   <title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS ARSENAL[/COLOR]</title>
@@ -243,6 +233,20 @@
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS ARSENAL[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-72</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 
 
 <title>LIVE - FOOTBALL [COLOR red]SWANSEA CITY VS HULL CITY[/COLOR]</title>         
