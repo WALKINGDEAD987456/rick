@@ -7,7 +7,7 @@
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-72</page>
+<page>http://widestream.io/embed-132</page>
 <referer>http://widestream.io/</referer>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
