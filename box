@@ -15,95 +15,16 @@
 </item>
 
 <item>
-  <title>LIVE - UFC [COLOR gold]202[/COLOR]</title>
-  <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://www3.sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
-  <regex>
-  <name>server</name>
-  <expres>var st2tas.*?['\"]([^\']+)';</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  <regex>
-  <name>path1</name>
-  <expres>var flile.*?["\'](\d\d\d\d\d)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  <regex>
-  <name>path2</name>
-  <expres>flile.r[\d\D]*?var.+?'([^\']+)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  <regex>
-  <name>path3</name>
-  <expres>$pyFunction:urllib.unquote('$doregex[unescape]')</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  <regex>
-  <name>unescape</name>
-  <expres>var bmakz.*?'([^\']+)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  <regex>
-  <name>getpacked</name>
-  <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-  <page>http://www3.sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
-</regex>
- <regex>
-  <name>page1</name>
-  <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
-  <page>http://www3.sawlive.tv/embed/lagpjelly</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
-  </regex>
-  <regex>
-  <name>page2</name>
-  <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
-  <page>http://www3.sawlive.tv/embed/lagpjelly</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://wiz1.net/channel65</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
+<title>LIVE - UFC[COLOR gold]202[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.stadium-live.biz/ch_136code.html</page>
+<referer>http://www.stadium-live.biz/</referer>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart>http://202ufc.com/wp-content/uploads/2016/07/ufc-202-hd.jpg</fanart>
 </item>
 
-<item>
-<title>TEST - ReGex - sawlive.tv - www.wiz1.net/ch14</title>
-<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,226 live=1 timeout=13 pageUrl=http://www3.sawlive.tv/embed/watch/IxMjZhODk4ZTBkMzhhMDIwYmZmOTg0Zg__/bGFnejA5MTo1NjRkNmMwYWQxNTMwMTlmZDNhOWJlMTI1MDI2N2UwZDowMDI4Y</link>
-<regex><name>rtmp</name><expres>streamer', '(.*?)'</expres>
-<page>http://www3.sawlive.tv/embed/watch/I0MWI0ZjExZGZkMDczMWIyZDI0ODEzNTBl/bGFncGplbGx5OmU2MzU3MDUzNzRkNTY2NGY2YjQ1MDY4MGZmZGM5ZTczOjk2MzRkN2</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://www.wiz1.net/ch65</referer>
-</regex>
-<regex><name>file</name><expres>file', '(.*?)'</expres>
-<page>http://www3.sawlive.tv/embed/watch/I0MWI0ZjExZGZkMDczMWIyZDI0ODEzNTBl/bGFncGplbGx5OmU2MzU3MDUzNzRkNTY2NGY2YjQ1MDY4MGZmZGM5ZTczOjk2MzRkN2</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
-<referer>http://www.wiz1.net/ch65</referer>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+http://cdn.sstream.pw/live/tvb136/playlist.m3u8
