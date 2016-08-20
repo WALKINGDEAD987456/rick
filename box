@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
+
+
+<item>
+<title>LIVE - UFC [COLOR gold]202[/COLOR] EARLY PRELIMS</title>
+<sportsdevil>http://wizhdsports.to/live/stream3.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream3.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 <item>
 <title>LIVE - UFC [COLOR gold]202[/COLOR]</title>
 <link>$doregex[m3u8]</link>
