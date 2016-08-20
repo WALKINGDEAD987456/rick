@@ -167,6 +167,83 @@
 </item>
 
 <item>
+  <title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS MAN CITY[/COLOR]</title>
+  <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
+  <regex>
+  <name>server</name>
+  <expres>var st2tas.*?['\"]([^\']+)';</expres>
+  <page>$doregex[getpacked]</page>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*;q=0.8</accept>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>path1</name>
+  <expres>var flile.*?["\'](\d\d\d\d\d)</expres>
+  <page>$doregex[getpacked]</page>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*;q=0.8</accept>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>path2</name>
+  <expres>flile.r[\d\D]*?var.+?'([^\']+)</expres>
+  <page>$doregex[getpacked]</page>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*;q=0.8</accept>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>path3</name>
+  <expres>$pyFunction:urllib.unquote('$doregex[unescape]')</expres>
+  <page>$doregex[getpacked]</page>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*;q=0.8</accept>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>unescape</name>
+  <expres>var bmakz.*?'([^\']+)</expres>
+  <page>$doregex[getpacked]</page>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*;q=0.8</accept>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <cookieJar></cookieJar>
+  <regex>
+  <name>getpacked</name>
+  <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+  <page>http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]</page>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*</accept>
+  <cookieJar></cookieJar>
+</regex>
+ <regex>
+  <name>page1</name>
+  <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
+  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*</accept>
+  <cookieJar></cookieJar>
+  </regex>
+  <regex>
+  <name>page2</name>
+  <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
+  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+  <referer>http://zunoxide.net/</referer>
+  <accept>*/*</accept>
+  <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
 <title>LIVE - FOOTBALL [COLOR red]SWANSEA CITY VS HULL CITY[/COLOR]</title>         
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR red]SWANSEA CITY VS HULL CITY[/COLOR]&amp;url=http%3A%2F%2Fcdn.sstream.pw%2Flive%2Ftvb149%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F50.0.2661.94%2520Safari%252F537.36</link>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
@@ -253,7 +330,6 @@
 
   <title>LIVE - FOOTBALL [COLOR red]MAN UTD VS SOUTHAMPTON[/COLOR]</title>
   <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
-
   <regex>
   <name>server</name>
   <expres>var st2tas.*?['\"]([^\']+)';</expres>
@@ -263,7 +339,6 @@
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
   </regex>
-  
   <regex>
   <name>path1</name>
   <expres>var flile.*?["\'](\d\d\d\d\d)</expres>
@@ -273,7 +348,6 @@
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
   </regex>
-  
   <regex>
   <name>path2</name>
   <expres>flile.r[\d\D]*?var.+?'([^\']+)</expres>
@@ -283,7 +357,6 @@
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
   </regex>
-  
   <regex>
   <name>path3</name>
   <expres>$pyFunction:urllib.unquote('$doregex[unescape]')</expres>
@@ -293,7 +366,6 @@
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
   </regex>
-  
   <regex>
   <name>unescape</name>
   <expres>var bmakz.*?'([^\']+)</expres>
@@ -302,7 +374,6 @@
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
-
   <regex>
   <name>getpacked</name>
   <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
@@ -312,7 +383,6 @@
   <accept>*/*</accept>
   <cookieJar></cookieJar>
 </regex>
-
  <regex>
   <name>page1</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
@@ -322,7 +392,6 @@
   <accept>*/*</accept>
   <cookieJar></cookieJar>
   </regex>
-  
   <regex>
   <name>page2</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
