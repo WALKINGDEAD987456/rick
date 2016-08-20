@@ -144,11 +144,13 @@
 </channel>
 </channels>
 
-
-<name>F1 REPLAYS 2016</name>
-<thumbnail>http://i65.tinypic.com/20go8qh.jpg</thumbnail>
+<channels>
+ 
+<channel>
+<name>BOX OFFICE EVENTS</name>
+<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/F1.XML</externallink>
+<externallink>http://</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 <info></info> 
 </channel>
