@@ -15,13 +15,13 @@
 </item>
 
 <item>
-  <title>LIVE - UFC[COLOR gold]202[/COLOR]</title>
+  <title>LIVE - UFC [COLOR gold]202[/COLOR]</title>
   <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://www3.sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
   <regex>
   <name>server</name>
   <expres>var st2tas.*?['\"]([^\']+)';</expres>
   <page>$doregex[getpacked]</page>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
@@ -30,7 +30,7 @@
   <name>path1</name>
   <expres>var flile.*?["\'](\d\d\d\d\d)</expres>
   <page>$doregex[getpacked]</page>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
@@ -39,7 +39,7 @@
   <name>path2</name>
   <expres>flile.r[\d\D]*?var.+?'([^\']+)</expres>
   <page>$doregex[getpacked]</page>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
@@ -48,7 +48,7 @@
   <name>path3</name>
   <expres>$pyFunction:urllib.unquote('$doregex[unescape]')</expres>
   <page>$doregex[getpacked]</page>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
@@ -57,7 +57,7 @@
   <name>unescape</name>
   <expres>var bmakz.*?'([^\']+)</expres>
   <page>$doregex[getpacked]</page>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*;q=0.8</accept>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <cookieJar></cookieJar>
@@ -66,7 +66,7 @@
   <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
   <page>http://www3.sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*</accept>
   <cookieJar></cookieJar>
 </regex>
@@ -75,7 +75,7 @@
   <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
   <page>http://www3.sawlive.tv/embed/lagpjelly</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*</accept>
   <cookieJar></cookieJar>
   </regex>
@@ -84,7 +84,7 @@
   <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
   <page>http://www3.sawlive.tv/embed/lagpjelly</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://www.wiz1.net/ch65</referer>
+  <referer>http://wiz1.net/channel65</referer>
   <accept>*/*</accept>
   <cookieJar></cookieJar>
 </regex>
