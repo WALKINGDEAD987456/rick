@@ -226,7 +226,7 @@
  <regex>
   <name>page1</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
-  <page>http://sawlive.tv/embed/</page>
+  <page>http://sawlive.tv/embed/zunoxidehd</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <referer>http://zunoxide.net/</referer>
   <accept>*/*</accept>
@@ -387,7 +387,7 @@
  <regex>
   <name>page1</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <page>http://sawlive.tv/embed/zunoxidehd</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <referer>http://zunoxide.net/</referer>
   <accept>*/*</accept>
@@ -396,7 +396,7 @@
   <regex>
   <name>page2</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <page>http://sawlive.tv/embed/zunoxidehd</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <referer>http://zunoxide.net/</referer>
   <accept>*/*</accept>
