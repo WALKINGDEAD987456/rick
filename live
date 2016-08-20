@@ -339,6 +339,74 @@ tle>LIVE - FOOTBALL [COLOR red]BRISTOL ROVERS VS CARDIFF CITY[/COLOR]</title>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS MAN CITY[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_130code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_130code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]WATFORD VS CHELSEA[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_146code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_146code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]TOTTENHAM HOTSPUR VS CRYSTAL PALACE[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_144code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_144code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BURNLEY VS LIVERPOOL[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_148code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_148code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]SWANSEA CITY VS HULL CITY[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_149code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_149code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]WEST BROM VS EVERTON[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_150code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_150code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS ARSENAL[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_135code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_135code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]DERBY COUNTY VS ASTON VILLA[/COLOR]</title>
+<sportsdevil>http://www.stadium-live.biz/ch_130code.html</sportsdevil>
+<referer>http://www.stadium-live.biz/ch_130code.html</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <title>UFC</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
@@ -369,12 +437,7 @@ http://streamm.eu/examples/osmf/3.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]MAN UTD VS SOUTHAMPTON[/COLOR]</title>
-<sportsdevil>http://www.stadium-live.biz/ch_130code.html</sportsdevil>
-<referer>http://www.stadium-live.biz/ch_130code.html</referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 
 <title>test1</title>
