@@ -161,8 +161,7 @@ cookieJar></cookieJar>
 
 <item>
 <title>UFC 202</title>
-<link>
-plugin://plugin.video.f4mTester/?url=http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+<link>plugin://plugin.video.f4mTester/?url=http://94.242.228.162:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=$doregex[m3u8]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 <regex>
 <name>m3u8</name>
 <expres>wmsAuthSign=([^"]*)</expres>
