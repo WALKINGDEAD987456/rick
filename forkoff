@@ -147,7 +147,7 @@
 <channels>
  
 <channel>
-<name>BOX OFFICE EVENTS</name>
+<name>BOX OFFICE EVENTS LIVE</name>
 <thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/box</externallink>
@@ -156,7 +156,17 @@
 </channel>
 </channels>
 
-
+<channels>
+ 
+<channel>
+<name>BOX OFFICE EVENT REPLAYS</name>
+<thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https:</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info> 
+</channel>
+</channels>
 
 <name>MOTO-GP REPLAYS</name>
 <thumbnail>http://i65.tinypic.com/2emle2p.jpg</thumbnail>
