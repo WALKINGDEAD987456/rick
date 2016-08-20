@@ -168,7 +168,7 @@
 </item>
 
 <item>
-  <title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS MAN CITY[/COLOR]</title>
+  <title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS MAN CITYAA[/COLOR]</title>
   <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
   <regex>
   <name>server</name>
@@ -226,7 +226,7 @@
  <regex>
   <name>page1</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <page>http://sawlive.tv/embed/</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <referer>http://zunoxide.net/</referer>
   <accept>*/*</accept>
@@ -235,7 +235,7 @@
   <regex>
   <name>page2</name>
   <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
+  <page>http://sawlive.tv/embed/zunoxidehd</page>
   <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
   <referer>http://zunoxide.net/</referer>
   <accept>*/*</accept>
