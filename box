@@ -90,3 +90,20 @@
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>TEST - ReGex - sawlive.tv - www.wiz1.net/ch14</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static3.sawlive.tv/player.swf swfVfy=1 flashver=WIN\2019,0,0,226 live=1 timeout=13 pageUrl=http://www3.sawlive.tv/embed/watch/IxMjZhODk4ZTBkMzhhMDIwYmZmOTg0Zg__/bGFnejA5MTo1NjRkNmMwYWQxNTMwMTlmZDNhOWJlMTI1MDI2N2UwZDowMDI4Y</link>
+<regex><name>rtmp</name><expres>streamer', '(.*?)'</expres>
+<page>http://www3.sawlive.tv/embed/watch/I0MWI0ZjExZGZkMDczMWIyZDI0ODEzNTBl/bGFncGplbGx5OmU2MzU3MDUzNzRkNTY2NGY2YjQ1MDY4MGZmZGM5ZTczOjk2MzRkN2</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
+<referer>http://www.wiz1.net/ch65</referer>
+</regex>
+<regex><name>file</name><expres>file', '(.*?)'</expres>
+<page>http://www3.sawlive.tv/embed/watch/I0MWI0ZjExZGZkMDczMWIyZDI0ODEzNTBl/bGFncGplbGx5OmU2MzU3MDUzNzRkNTY2NGY2YjQ1MDY4MGZmZGM5ZTczOjk2MzRkN2</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</agent>
+<referer>http://www.wiz1.net/ch65</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
