@@ -28,7 +28,7 @@
 
 <item>
 <title>FS 2 </title>
-<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/channel/26196 timeout=15</link>
+<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://castalba.tv/channel/26196 timeout=15</link>
 <regex>
 <name>rtmp</name>
 <expres>'streamer': '(.*?)'</expres>
