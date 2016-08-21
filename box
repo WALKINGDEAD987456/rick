@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]2</title>
+<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream21.php</sportsdevil>
 <referer>http://wizhdsports.to/</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -15,14 +15,24 @@
 </item>
 
 <item>
-<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]2</title>
+<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]</title>
 <sportsdevil>http://streamsarena.eu/streams/stream1.php</sportsdevil>
 <referer>http://streamsarena.eu/streams/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 <fanart>http://images.performgroup.com/di/library/sporting_news/e5/2d/wwe-summerslam-072915-wwe-ftr_18mhkt5t9md701jyoc8sszar52.jpg?t=-640975954</fanart>
 </item>
 
-
+<item>
+<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-71</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 
