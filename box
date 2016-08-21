@@ -27,6 +27,22 @@
 </item>
 
 <item>
+<title>FS 2 </title>
+<link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/channel/26196 timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '(.*?)'</expres>
+<page>http://castalba.tv/channel/26196</page>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '(.*?)'\W</expres>
+<page>http://castalba.tv/channel/26196</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]</title>         
 <link>rtmp://185.82.215.47:3579/vod/ playpath=lapa42?e=1471816096&st=0csfKtLU21Tnqze0-0FDMA281733  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w3.php?hash=lapa42&crn=891901439.1759948</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
