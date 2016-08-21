@@ -169,6 +169,12 @@
 
 
 <item>
+<title>Sunderland vs Middlesbrough</title>
+<link>http://54.157.210.4/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
 <title>LIVE - FOOTBALL [COLOR red]SUNDERLAND VS MIDDLESBROUGH[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
