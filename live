@@ -349,7 +349,7 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 
 
 <item>
-<title>http://wizhdsports.com/watch/UEFA-Europa-League-Shakhtar-Donetsk-vs-Sporting-Braga/livepool-live-stream.html</title>
+<title>http</title>
 <link>$doregex[URL]</link>
 <regex>
 <name>URL</name>
@@ -358,9 +358,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
      import requests
      import re
      import base64
+           
 
      id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-     url = 'http://bro.adca.st/stream.php?id=' + id + '&width=640&height=480'
+     url = 'http://bro.adca.st/stream.php?id=' + id + '&cache=4&width=100%&height=100%&stretching=uniform&p=1&c=0'
      headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://wizhdsports.to/live/stream21.php'}
      source = requests.get(url, headers = headers)
      curl = re.findall('curl = "(.*?)"', source.text)[0]
