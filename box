@@ -19,15 +19,15 @@
 </item>
 
 <item>
-<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]1</title>
-<sportsdevil>http://castalba.tv/channel/26196</sportsdevil>
+<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]12</title>
+<sportsdevil>http://castalba.tv/embed.php?cid=26196</sportsdevil>
 <referer>http://castalba.tv/</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 <fanart>http://images.performgroup.com/di/library/sporting_news/e5/2d/wwe-summerslam-072915-wwe-ftr_18mhkt5t9md701jyoc8sszar52.jpg?t=-640975954</fanart>
 </item>
 
 <item>
-<title>FS 2 </title>
+<title>FS 2 2</title>
 <link>$doregex[rtmp] playpath=$doregex[path] conn=S:OK swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://castalba.tv/channel/26196 timeout=15</link>
 <regex>
 <name>rtmp</name>
