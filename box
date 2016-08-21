@@ -77,67 +77,9 @@
 </item>
 
 <item>
-<title>TEST2</title>
-<link>$doregex[get_rtmp]$doregex[get_wms_clear]$doregex[get_WMS1]/ app=live?wmsAuthSign=$doregex[get_wms_clear]$doregex[get_WMS1]/ playpath=$doregex[get_path_clear] token=AXB88cnKHbv0 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf swfVfy=1 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</link>
-<regex>
-<name>get_rtmp</name>
-<expres>$pyFunction:'$doregex[get-clean_rtmp]'.replace('"','').replace(',','').replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-clean_rtmp</name>
-<expres>return.{2}("r"[^\]]*)</expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
-<regex>
-<name>get_wms_clear</name>
-<expres>$pyFunction:'$doregex[get_wms1]'.replace('"','').replace(',','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_wms1</name>
-<expres>var $doregex[get_wms].*\[([^\]]*)</expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
-<regex>
-<name>get_wms</name>
-<expres>return.*?\+\s([^.]*)</expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
-<regex>
-<name>get_WMS1</name>
-<expres><=!=[=C=D=A=T=A=[none' id=$doregex[get_WMS]\W([^<]*)]=]=></expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
-<regex>
-<name>get_WMS</name>
-<expres>return.*?ById\("([^.]*)"</expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
-<regex>
-<name>get_path_clear</name>
-<expres>$pyFunction:'$doregex[get_path]'.replace('"','').replace(',','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_path</name>
-<expres>return\(\[([^\/\]]*).*\)\)</expres>
-<page>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</page>
-<referer>http://www.cast4u.tv/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-</regex>
+<title>LIVE - WWE [COLOR gold]SUMMERSLAM[/COLOR]</title>
+<sportsdevil>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</sportsdevil>
+<referer>http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart>http://images.performgroup.com/di/library/sporting_news/e5/2d/wwe-summerslam-072915-wwe-ftr_18mhkt5t9md701jyoc8sszar52.jpg?t=-640975954</fanart>
 </item>
-
-
-
-
