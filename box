@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>TEST</title>
+<title>TEST2</title>
 <link>$doregex[get_rtmp]$doregex[get_wms_clear]$doregex[get_WMS1]/ app=live?wmsAuthSign=$doregex[get_wms_clear]$doregex[get_WMS1]/ playpath=$doregex[get_path_clear] token=AXB88cnKHbv0 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf swfVfy=1 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embedcr.php?v=hdch11&vw=620&vh=490</link>
 <regex>
 <name>get_rtmp</name>
