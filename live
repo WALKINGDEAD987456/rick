@@ -382,7 +382,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>http://www.tv-sport-hd.com/channel/dolce1.html</title>
-<link>$doregex[url]|Referer=http://bro.adca.st/stream.php?id=150&cache=4&width=700&height=440&stretching=uniform&p=0&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
+<link>$doregex[url]|Referer=http://bro.adca.st/stream.php?id=150&cache=4&width=100%&height=100%&stretching=uniform&p=1&c=0&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36&amp;X-Requested-With=ShockwaveFlash/22.0.0.192</link>
 <regex>
 <name>url</name>
 <expres><![CDATA[#$pyFunction
@@ -390,7 +390,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 	import requests
 	import re
 
-	headers = {'Referer': 'http://bro.adca.st/stream.php?id=150&cache=4&width=700&height=440&stretching=uniform&p=0',
+	headers = {'Referer': 'http://bro.adca.st/stream.php?id=150&cache=4&width=100%&height=100%&stretching=uniform&p=1&c=0',
                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36',
                'X-Requested-With': 'XMLHttpRequest'}
 
