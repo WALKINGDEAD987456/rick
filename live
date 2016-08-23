@@ -147,10 +147,7 @@
 </item>
 
 
-
-
-
-<title>LIVE - FOOTBALL [COLOR red]WEST HAM UTD VS BOURNEMOUTH[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]BURTON ALBION VS LIVERPOOL[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -160,6 +157,30 @@
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+
+
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BURTON ALBION VS LIVERPOOL[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=http%3A%2F%2Fcdn.sstream.pw%2Flive%2Ftvb130%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F50.0.2661.94%2520Safari%252F537.36</link>
+<thumbnail></thumbnail>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BURTON ALBION VS LIVERPOOL[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;name=[COLOR red]BURTON ALBION VS LIVERPOOL[/COLOR]&amp;url=http%3A%2F%2Fcdn.sstream.pw%2Flive%2Ftvb130%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F50.0.2661.94%2520Safari%252F537.36</link>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
 
 
 <title>LIVE - FOOTBALL [COLOR red]WEST HAM UTD VS BOURNEMOUTH[/COLOR]</title>         
