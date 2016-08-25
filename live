@@ -146,6 +146,21 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LIVE UCL DRAW 17:00[/COLOR]</title>
+<link>http://urhd.tv/$doregex[get_m3u8]</link>
+<regex>
+<name>get_m3u8</name>
+<expres>file: '(.*?m3u8)',</expres>    
+<page>http://urhd.tv/fox-sports1-hd</page>                              
+<agent>Mozilla/5.0</agent>
+<referer>http://urhd.tv/</referer>
+</regex>
+</item>
+
 <item>
 <title>LIVE - FOOTBALL [COLOR red]LIVE UCL DRAW 17:00[/COLOR]</title>
 <link>$doregex[m3u8]</link>
