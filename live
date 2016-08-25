@@ -146,7 +146,18 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>LIVE - DARTS [COLOR red][/COLOR]</title>
+<link>http://urhd.tv/$doregex[get_m3u8]</link>
+<regex>
+<name>get_m3u8</name>
+<expres>file: '(.*?m3u8)',</expres>    
+<page>http://urhd.tv/setanta-sports-ireland</page>                              
+<agent>Mozilla/5.0</agent>
+<referer>http://urhd.tv/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 <item>
