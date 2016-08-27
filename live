@@ -174,7 +174,7 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]DERBY COUNTY VS BURTON ALBION[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]TOTTENHAM VS LIVERPOOL[/COLOR]</title>
 <link>http://urhd.tv/$doregex[get_m3u8]</link>
 <regex>
 <name>get_m3u8</name>
@@ -187,7 +187,7 @@
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]DERBY COUNTY VS BURTON ALBION[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]TOTTENHAM VS LIVERPOOL[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -197,6 +197,14 @@
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]TOTTENHAM VS LIVERPOOL[/COLOR]</title>
+<link>http://play-prod1.nbc.anvato.net/server/play/nbcsnxctg/2626000/prog.m3u8|X-Forwarded-For=54.183.196.251</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]DERBY COUNTY VS BURTON ALBION[/COLOR]</title>         
