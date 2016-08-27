@@ -187,6 +187,12 @@
 
 <item>
 <title>LIVE - UFC</title>
+<link>http://edge-us-east.streamboat.tv/live/ios/index.m3u8?s=3ca5b1ba2053540b22ca3f2193bcc7a44dce19aa</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - UFC</title>
 <sportsdevil>http://streamsarena.eu/streams/stream12.php</sportsdevil>
 <referer>http://streamsarena.eu/streams/stream12.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
