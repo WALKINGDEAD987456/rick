@@ -186,7 +186,16 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<title>LIVE - UFC</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-203</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - FOOTBALL [COLOR red]TOTTENHAM VS LIVERPOOL[/COLOR]</title>
 <link>http://wolverine.castto.me/live/lZwEK9zTcJMeArIZqcwG/playlist.m3u8</link>
