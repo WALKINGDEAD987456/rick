@@ -180,11 +180,13 @@
  
 
  
-
+<channels>
+ 
+<channel>
 <name>GREATEST SPORTING MOMENTS ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD EVENTS[/COLOR] )</name>
 <thumbnail>http://i64.tinypic.com/313ixyq.jpg</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://www.matsbuilds.co.uk/hank/OLD.XML</externallink>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/old</externallink>
 <fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
 </channel>
 </channels>
