@@ -302,11 +302,31 @@
 <fanart>http://www.ambwallpapers.com/wp-content/uploads/2015/04/100-George-Best-scores-six-v-Northampton-1970-e1415025583789-AMB.jpg</fanart>
 </item>
 
-<item>
+
 <title>WORLD CUP FINAL 1966 [COLOR red]30/07/66[/COLOR]</title>
 <link>http://vodlocker.com/rwesuhha4ry1</link>
 <thumbnail>http://www.buzzle.com/images/infographics/england-west-germany-final-infographic.jpg</thumbnail>
 <fanart>http://i2.cdn.turner.com/cnn/dam/assets/140515115819-england-1966-horizontal-gallery.jpg</fanart>
+</item>
+
+<item>
+<title>WORLD CUP FINAL 1966 [COLOR red]30/07/66[/COLOR]</title>
+<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"360":..".*?":".*?",".*?":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/video/x21dxll</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.buzzle.com/images/infographics/england-west-germany-final-infographic.jpg</thumbnail>
+<fanart>http://i2.cdn.turner.com/cnn/dam/assets/140515115819-england-1966-horizontal-gallery.jpg</fanart>
+</regex>
 </item>
 
 <item>
