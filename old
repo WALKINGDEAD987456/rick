@@ -319,7 +319,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"360":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"380":..".*?":".*?",".*?":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x21dxll</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
