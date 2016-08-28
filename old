@@ -260,7 +260,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x3e8mcl_uefa-euro-1988-group-2-day-1-england-vs-ireland_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
