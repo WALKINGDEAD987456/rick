@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+
+
+<channels>
+ 
+<channel>
     <name>[COLOR yellow]TRANSFER DEADLINE DAY[/COLOR]</name>
 <thumbnail>http://s2.stliq.com/c/l/0/0f/18075473_soccer-players-on-twitter-seguiamo-le-notizie-su-calciatori-squadre-di-calcio-2.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>http://</externallink>
 <fanart>http://i3.mirror.co.uk/incoming/article2244778.ece/ALTERNATES/s615/TDDS310113CL_6005.jpg</fanart>
-
+</channel>
+</channels>
 
 
 
