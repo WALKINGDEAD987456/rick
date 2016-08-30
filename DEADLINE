@@ -7,3 +7,17 @@
 <thumbnail>http://cf.c.ooyala.com/FwMmN2cjq1k40ZDSfJTf8DZEZREGGV8z/Ut_HKthATH4eww8X4xMDoxOjBzMTt2bJ</thumbnail>
 <fanart>http://edgardaily.com/media/17775/deadline-day.jpg?anchor=center&mode=crop&width=683&height=400&rnd=130855795380000000</fanart>
 </item>
+
+<item>
+<title>[COLOR yellow]DEADLINE DAY[/COLOR]</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>source src=(http://shadow.go.ro/sdwnet/gett.php/.*?)"</expres>
+<page>http://shadow.go.ro/sdwnet/channels/uktv/player/sky-sports-news.php</page>
+<referer>http://www.shadow-net.org/channels/Sky-Sports-News.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://cf.c.ooyala.com/FwMmN2cjq1k40ZDSfJTf8DZEZREGGV8z/Ut_HKthATH4eww8X4xMDoxOjBzMTt2bJ</thumbnail>
+<fanart>http://edgardaily.com/media/17775/deadline-day.jpg?anchor=center&mode=crop&width=683&height=400&rnd=130855795380000000</fanart>
+</item>
