@@ -198,13 +198,13 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - UFC</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]READING VS IPSWITCH TOWN[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-203</page>
+<page>http://widestream.io/embed-73</page>
 <referer>http://widestream.io/</referer>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
