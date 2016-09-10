@@ -40,13 +40,13 @@
 
 
 
-
-<title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
+<item>
+<title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-203</page>
+<page>http://widestream.io/embed-75</page>
 <referer>http://widestream.io/</referer>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
