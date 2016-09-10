@@ -14,10 +14,19 @@
 </item>
 
 <item>
-<title>lLIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>         
-<link>http://livestream-f.akamaihd.net/i/21403305_6312654_lsi4nmoq8slrg24mfqk_1@306087/master.m3u8?__b__=678&dw=100&hdnea=st=1473536689~exp=1473538489~acl=/i/21403305_6312654_lsi4nmoq8slrg24mfqk_1@306087/*~hmac=8ca23807dc4388c8504487dd594467d55899c89504b7e8d0a1c00c345b5c077d&__a__=off</link>
+<title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>file: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://streamhdeu.com/player1/stream12.php</page>
+<referer>http://streamhdeu.com/</referer>
+</regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+
+
 
 <item>
 <title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
