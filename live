@@ -198,7 +198,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]READING VS IPSWITCH TOWN[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -225,10 +225,10 @@
 </item>
 
 
-
-<title>LIVE - FOOTBALL [COLOR red]BILBAO VS BARCALONA[/COLOR]</title>
-<sportsdevil>http://streamhdeu.net/player1/stream1.php</sportsdevil>
-<referer>http://streamhdeu.net/player1/stream1.php</referer>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LIVERPOOL VS LEICESTER[/COLOR]</title>
+<sportsdevil>http://streamsarena.eu/events/20160910/liverpool-vs-leicester-city-live-stream-3.php</sportsdevil>
+<referer>http://streamsarena.eu/events/20160910/liverpool-vs-leicester-city-live-stream-3.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
