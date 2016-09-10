@@ -7,14 +7,14 @@
 </item>
 
 
-<item>
+
 <title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>         
 <link>rtmp://185.82.215.47:3579/vod/ playpath=lapa98?e=1473528996&st=5YYtWG4rlmA_gbPWe9YJFA381696  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w3.php?hash=lapa98&crn=436434876.1146248</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
+<title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
@@ -28,7 +28,7 @@
 
 
 
-<item>
+
 <title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -40,14 +40,14 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
 <sportsdevil>http://streamsarena.eu/streams/stream12.php</sportsdevil>
 <referer>http://streamsarena.eu/streams/stream12.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR gold]KELL BROOK VS GGG[/COLOR]</title>
 <sportsdevil>http://www.worldsports.ga/p/adsbygoogle-window_44.html</sportsdevil>
 <referer>http://www.worldsports.ga/p/adsbygoogle-window_44.html</referer>
