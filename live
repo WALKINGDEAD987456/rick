@@ -35,7 +35,7 @@
 </item>
 
 
-<item>
+
 <title>[COLOR red]LIVE SPORTS CHANNELS[/COLOR] HQ</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=53&amp;name=GTV sports&amp;url=sss</jsonrpc>
@@ -43,7 +43,7 @@
 <fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
 </item>
 
-<item>
+
 <title>[COLOR red]LIVE SPORTS CHANNELS[/COLOR] HQ</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=36&amp;name=PV2 sports&amp;url=zemsports</jsonrpc>
@@ -68,7 +68,7 @@
 </item>
 
 
-<item>
+
 <title>[COLOR red]MORE LIVE SPORTS[/COLOR] [COLOR yellow]LATEST SPORTSDEVIL NEEDED[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/streamsports.me.cfg&amp;mode=1</jsonrpc>
