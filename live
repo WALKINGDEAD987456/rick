@@ -584,6 +584,17 @@ http://cp.dmbshare.net:8000/live/cheryl/cheryl/6877.m3u8
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - NFL [COLOR red]NFL REDZONE[/COLOR]</title>  
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-152</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 
