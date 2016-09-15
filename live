@@ -204,6 +204,20 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>test</title> 
+<link>$doregex[getm3u8]</link>
+<regex>
+<name>getm3u8</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamm.eu/live/80.php</page>
+<referer>http://streamm.eu/</referer>
+<Agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</Agent>
+</regex>
+</item>
+
+
+ 
 
 <title>LIVE - FOOTBALL [COLOR red]Tottenham Hotspur vs Monaco[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
