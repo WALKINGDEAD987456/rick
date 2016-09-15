@@ -67,7 +67,13 @@
 <fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR red]LIVE SPORTS[/COLOR] HQ</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=75&amp;name=StreamHD&amp;url=sss</jsonrpc>
+<thumbnail>http://www.cwemi.org/wp-content/uploads/2014/11/I-love-sports-clip-art.jpg</thumbnail>
+<fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
+</item>
 
 <title>[COLOR red]MORE LIVE SPORTS[/COLOR] [COLOR yellow]LATEST SPORTSDEVIL NEEDED[/COLOR]</title>
 <link>ignorme</link>
