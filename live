@@ -216,17 +216,7 @@
 </regex>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]Southampton vs Sparta Prague[/COLOR]</title>  
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-74</page>
-<referer>http://widestream.io/</referer>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 
 
@@ -251,6 +241,17 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
  
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Southampton vs Sparta Prague[/COLOR]</title>  
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-74</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - FOOTBALL [COLOR red]Tottenham Hotspur vs Monaco[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
