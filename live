@@ -205,7 +205,7 @@
 </item>
 
 <item>
-<title>test</title> 
+<title>testaa</title> 
 <link>$doregex[getm3u8]</link>
 <regex>
 <name>getm3u8</name>
