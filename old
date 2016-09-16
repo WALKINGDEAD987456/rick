@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR]2</title>
+<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -114,8 +114,8 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://football4ever.ovh/wp-content/uploads/2016/02/0929090001450112130_filepicker.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/VsdMmDwCY10/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/I2eSUhNc8rg/maxresdefault.jpg</thumbnail>
+<fanart>https://static01.nyt.com/images/2012/05/20/sports/soccer/20soccer/20soccer-blog480.jpg</fanart>
 </item>
 
 
@@ -128,7 +128,7 @@
 </item>
 
 <item>
-<title>ARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR] </title>
+<title>ARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -177,7 +177,7 @@
 </item>
 
 <item>
-<title>SOUTH AFRICAN MOTO GP [COLOR red]18/04/04[/COLOR] [COLOR yellow]*NEW*[/COLOR]</title>        
+<title>SOUTH AFRICAN MOTO GP [COLOR red]18/04/04[/COLOR]</title>        
 <link>https://player.vimeo.com/video/114674588?autoplay=1</link>
 <thumbnail>http://photos.motogp.com/2015/01/29/136044.big.jpg</thumbnail>
 <fanart>http://global.yamaha-motor.com/race/2010season-review/motogp/dev/img_l/pic_013.jpg</fanart>
