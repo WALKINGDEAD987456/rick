@@ -150,19 +150,19 @@
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Chelsea vs Liverpool[/COLOR]</title>
 <link>http://edge-us-east.streamboat.tv/live/hawks77/index.m3u8?s=fffedd915f1f4219a0ce746c8404fa842a3d559a</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Chelsea vs Liverpool[/COLOR]</title>
 <link>http://azubuhlspull-a.akamaihd.net/c45c680695c313c728c73a184d9a00a0/us-west-1/video403138CHplir/2400/index.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE -  FOOTBALL [COLOR red]Chelsea vs Liverpool[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
