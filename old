@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR] </title>
+<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR]A </title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -109,7 +109,7 @@
 <regex>
 <name>get-url</name>
 <expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
-<page>http://www.dailymotion.com/embed/video/x1iq4lx</page>
+<page>http://www.dailymotion.com/video/x1iq4lx_uefa-champions-league-2012-final-bayern-munich-vs-fc-chelsea-full-match_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
