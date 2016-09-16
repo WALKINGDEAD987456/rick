@@ -725,7 +725,7 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043</thumbnail>
 </item>
 
-<item>
+
 <title>TEST</title>        
 <link>https://forums.tvaddons.ag/$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 <regex>
@@ -748,19 +748,19 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 </regex>
 </item>
 
-<item>
+
 <title>test</title>
 <link>https://forums.tvaddons.ag/$doregex[server] playpath=$doregex[path] swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl= token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail></thumbnail>
 <regex>
 <name>server</name>
 <expres>streamer: "(.*?)"</expres>
-<page>http://www.iguide.to/view/34464</page>
+<page>http://www.iguide.to/view/34464/HDSTUFF3</page>
 </regex>
 <regex>
 <name>path</name>
 <expres>file: "(.*?).flv"</expres>
-<page>http://www.iguide.to/view/34464</page>
+<page>http://www.iguide.to/view/34464/HDSTUFF3</page>
 </regex>
 </item>
 
