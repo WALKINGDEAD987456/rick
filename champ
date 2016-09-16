@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-<title>PREMIER LEAGUE WORLD [COLOR red].09.16[/COLOR]</title>
-<link>http://cdn.phoenix.intergi.com/18465/videos//video-sd.mp4</link>
+
+<item>
+<title>PREMIER LEAGUE WORLD [COLOR red]16.09.16[/COLOR]</title>
+<link>http://cdn.phoenix.intergi.com/18465/videos/5150367/video-sd.mp4</link>
+<thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/Premier_League_Rebrands_DesignStudio_01-1200x675.jpg</thumbnail>
+<fanart>http://itsgoneviral.com/wp-content/uploads/2016/06/Premier-League.jpg</fanart>
+</item>
+
+<item>
+<title>PREMIER LEAGUE WORLD [COLOR red]15.09.16[/COLOR]</title>
+<link>http://cdn.phoenix.intergi.com/18465/videos/5150366/video-sd.mp4</link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/Premier_League_Rebrands_DesignStudio_01-1200x675.jpg</thumbnail>
 <fanart>http://itsgoneviral.com/wp-content/uploads/2016/06/Premier-League.jpg</fanart>
 </item>
