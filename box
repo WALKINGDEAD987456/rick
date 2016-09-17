@@ -58,6 +58,18 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<link>$doregex[file]|Referer=http://1streamking.co/btsport2&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>file: '(.*?)'</expres>
+<page>http://superstreamslive.co/player?channel=btsport2&amp;player=jwplayer7</page>
+<referer>http://1streamking.co/btsport2</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
