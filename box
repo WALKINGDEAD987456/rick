@@ -53,6 +53,13 @@
 </item>
 
 <item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/15352.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]UFC[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
@@ -65,6 +72,13 @@
 <referer>http://wizhdsports.to/live/stream12.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/14520.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]BOXING[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 
 <title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
