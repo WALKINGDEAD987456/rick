@@ -181,7 +181,7 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Hull City vs Arsenal[/COLOR]</title>
-<link>http://azubuhlspull-a.akamaihd.net/56a80099ea1b3bb3e30e94d5425099aa/us-west-1/video403609CHjnir/master.m3u8</link>
+<link>http://185.59.222.97:1935/live/stream2/playlist.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
@@ -199,7 +199,7 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Man city vs Bournemouth[/COLOR]</title>
-<link>http://azubuhlspull-a.akamaihd.net/3d822a6bdaa952c7d269af5e00dc490e/us-west-1/video403623CHmc3cj/master.m3u8</link>
+<link>http://185.59.222.97:1935/live/stream1/playlist.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
