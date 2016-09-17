@@ -263,7 +263,7 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Cardiff city vs Leeds utd[/COLOR]</title>  
+<title>LIVE - FOOTBALL [COLOR red]West Brom vs West Ham[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
