@@ -39,7 +39,18 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://widestream.io/embed-132</page>
+<referer>http://widestream.io/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 
 
