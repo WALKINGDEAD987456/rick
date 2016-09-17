@@ -158,6 +158,7 @@
 <referer>http://tvshqiphd.com/</referer>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
@@ -206,7 +207,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Chelsea vs Liverpool[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
 <regex>
