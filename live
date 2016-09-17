@@ -793,7 +793,18 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 </regex>
 </item>
 
+<item>
+<title>test</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://widestream.io/embed-1838</page>
+<referer>http://tvshqiphd.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-
+http://widestream.io/embed-1838
 
 
