@@ -52,9 +52,19 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream1.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
-
-
+<item>
+<title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream12.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream12.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
