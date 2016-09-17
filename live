@@ -799,7 +799,13 @@ http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1048.ts
 <link>http://cdn.sstream.pw/live/tvb157/playlist.m3u8|Referer=http://www.sitenow.me/embed.php?c=2160&width=750&height=400&autostart=true&tk1=4oFqRGB6pT3wQVKp62PEeftp3TLWISEUyzt6QBAWZX5AwuZKZnIni0YU4GnVWfqzTidDp8%2FgxOnWWnm%2BQN%2BrDA%3D%3D&tk2=i8dT69YnNGMVkq8Jxa6uzAtweCIQtaw%2Ft4n3Qdyfg5g%3D&tk3=T8eQrhDRF2nm9ZQylW%2FkWQniWb0Whf56BmGhmnIkDXQ%3D</link>
 </item>
 
-
+<item>
+<title>TEST</title>         
+<link>http://cdn.sstream.pw/live/tvb157/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&Accept-Encoding=gzip,deflate&DNT=1&Referer=http://www.playerapp1.pw/&Connection=keep-alive&Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</item>
 
 
 
