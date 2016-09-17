@@ -180,12 +180,17 @@
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Cardiff city vs Leeds utd[/COLOR] ACE</title>
-<plexus>acestream://42fe51591598d905ab011a9c8339150f8391dfa7</plexus>
+<title>LIVE - FOOTBALL [COLOR red]Hull City vs Arsenal[/COLOR]</title>
+<link>http://azubuhlspull-a.akamaihd.net/56a80099ea1b3bb3e30e94d5425099aa/us-west-1/video403609CHjnir/master.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Man city vs Bournemouth[/COLOR]</title>
+<link>http://azubuhlspull-a.akamaihd.net/3d822a6bdaa952c7d269af5e00dc490e/us-west-1/video403623CHmc3cj/master.m3u8</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - FOOTBALL [COLOR red]Chelsea vs Liverpool[/COLOR]</title>
 <link>http://edge-us-east.streamboat.tv/live/hawks77/index.m3u8?s=fffedd915f1f4219a0ce746c8404fa842a3d559a</link>
