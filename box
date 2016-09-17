@@ -13,6 +13,24 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+
+<title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://widestream.io/embed-1843</page>
+<referer>http://tvshqiphd.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
+
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>         
 <link>http://</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
