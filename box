@@ -19,6 +19,27 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream7.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream7.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream56.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream56.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
 <title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
