@@ -168,7 +168,7 @@
 <regex>
 <name>getM3U8</name>
 <expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-1838</page>
+<page>http://widestream.io/embed-1843</page>
 <referer>http://tvshqiphd.com/</referer>
 <cookieJar></cookieJar>
 </regex>
