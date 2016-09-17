@@ -7,13 +7,13 @@
 </item>
 
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>         
-<link>http://live.funstream.tv/hls/user62194_krackeron/index.m3u8?time=1473549560499</link>
+<link>http://</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -25,7 +25,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>         
 <link>rtmp://185.82.215.45:3579/vod/ playpath=lapa5?e=1473551742&st=-gMobOrouhSi_4XEWIM40w251262  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w1.php?hash=lapa5&crn=872697480.885362</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -37,7 +37,7 @@ http://streamsarena.eu/streams3/coppy.php
 
 <page>http://streamsarena.eu/streams/stream5.php</page>
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>         
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=http%3A%2F%2Fcdn.sstream.pw%2Flive%2Ftvb137%2Fplaylist.m3u8%7CReferer%3Dhttp%253A%252F%252Fwww.playerapp1.pw%252Fembed.php%253Fc%253D137%2526width%253D800%2526height%253D450%2526autostart%253Dtrue%2526tk1%253DeGJfqG2WVADZwTZPB1eP9sWcaXeKlFRPCu7BYA8DIcoRR5SPAEWNeMOIr2nSS2Z7ObLF6XZQeBzC3P4ImSd%252FcA%253D%253D%2526tk2%253DOJpyXJSRq6nyaAQv21u5SwaQqMvKVFIJay8ERyN3qgU%253D%2526tk3%253DBo1u1iA58lGNJCIdMCGoAVBihi1zxPsxFUVUZ0GSq3M%253D%26User-Agent%3DMozilla%252F5.0%2520(Windows%2520NT%25206.1%253B%2520WOW64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F50.0.2661.94%2520Safari%252F537.36</link>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
@@ -46,7 +46,7 @@ http://streamsarena.eu/streams3/coppy.php
 </item>
 
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -58,7 +58,7 @@ http://streamsarena.eu/streams3/coppy.php
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR gold]UFC 203[/COLOR]</title>
 <sportsdevil>http://streamsarena.eu/streams/stream5.php</sportsdevil>
 <referer>http://streamsarena.eu/streams/stream5.php</referer>
