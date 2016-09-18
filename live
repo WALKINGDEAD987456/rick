@@ -149,7 +149,7 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
@@ -180,21 +180,21 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream5.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
@@ -206,18 +206,32 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>plugin://program.plexus/?url=42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=mm</link>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://widestream.io/embed-1838</page>
+<referer>http://widestream.io/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
+<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
+<link>plugin://program.plexus/?url=42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=mm</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
 <title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
 <link>http://azubuhlspull-a.akamaihd.net/7f08b0039bbb4ee87611f0dadc960aee/us-west-1/video404287CHjnir/2400/index.m3u8</link>
 </item>
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Southampton vs Swansea city[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -229,14 +243,14 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Southampton vs Swansea city[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Southampton vs Swansea city[/COLOR]</title>
 <link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
 </item>
