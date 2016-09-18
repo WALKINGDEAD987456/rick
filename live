@@ -211,6 +211,11 @@
 <link>plugin://program.plexus/?url=42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=mm</link>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
+</item>
+
 <title>LIVE - FOOTBALL [COLOR red]Cardiff city vs Leeds utd[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
 <regex>
