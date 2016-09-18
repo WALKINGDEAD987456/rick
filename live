@@ -149,7 +149,7 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
@@ -160,13 +160,13 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/17157.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <link>$doregex[file]|Referer=http://1streamking.co/btsport1&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -180,39 +180,39 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream5.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream21.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream21.php</referer>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
 <expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-131</page>
+<page>http://widestream.io/embed-127</page>
 <referer>http://widestream.io/</referer>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>plugin://program.plexus/?url=42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=mm</link>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
 <link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
 </item>
 
