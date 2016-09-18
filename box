@@ -114,8 +114,7 @@
 
 <item>
 <title>t</title>
-<link>
-http://198.27.85.155:8080/Boxnation/manifest.f4m?token=$doregex[play] 
+<link>http://198.27.85.155:8080/Boxnation/manifest.f4m?token=$doregex[play]</link>
 <regex>
 <name>play</name>
 <expres>value="src=(token.+?)"</expres>
