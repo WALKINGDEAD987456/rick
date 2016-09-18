@@ -160,6 +160,18 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<link>$doregex[file]|Referer=http://1streamking.co/btsport1&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>file: '(.*?)'</expres>
+<page>http://superstreamslive.co/player?channel=btsport1&amp;player=jwplayer7</page>
+<referer>http://1streamking.co/btsport1</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
