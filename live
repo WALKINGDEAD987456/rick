@@ -199,7 +199,7 @@
 <regex>
 <name>getM3U8</name>
 <expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-132</page>
+<page>http://widestream.io/embed-131</page>
 <referer>http://widestream.io/</referer>
 <cookieJar></cookieJar>
 </regex>
