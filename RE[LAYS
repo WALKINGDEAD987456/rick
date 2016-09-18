@@ -18,7 +18,7 @@
 <name>get-url</name>
 <expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x4tojm4_saul-alvarez-vs-liam-smith-17-09-2016_sport</page>
-<referer>http://www.dailymotion.com/video/x4tojm4_saul-alvarez-vs-liam-smith-17-09-2016_sport</referer>
+<referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
