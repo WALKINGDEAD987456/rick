@@ -162,6 +162,12 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/17158.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <link>$doregex[file]|Referer=http://1streamking.co/btsport1&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
 <name>file</name>
