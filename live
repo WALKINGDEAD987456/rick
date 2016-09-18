@@ -200,7 +200,7 @@
 <name>getM3U8</name>
 <expres>file: "(.*?)"</expres>
 <page>http://widestream.io/embed-132</page>
-<referer>http://tvshqiphd.com/</referer>
+<referer>http://widestream.io/</referer>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
