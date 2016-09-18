@@ -213,8 +213,9 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
-<link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
+<link>http://azubuhlspull-a.akamaihd.net/7f08b0039bbb4ee87611f0dadc960aee/us-west-1/video404287CHjnir/2400/index.m3u8</link>
 </item>
+
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Southampton vs Swansea city[/COLOR]</title>
@@ -233,6 +234,11 @@
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Southampton vs Swansea city[/COLOR]</title>
+<link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
 </item>
 
 <title>LIVE - FOOTBALL [COLOR red]Cardiff city vs Leeds utd[/COLOR]</title>  
