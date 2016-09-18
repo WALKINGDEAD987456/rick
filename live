@@ -216,6 +216,18 @@
 <link>http://twitch.tv.global.prod.fastly.net/live/stream1/playlist.m3u8</link>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Crystal palace vs Stoke city[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>file: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.eplstream.net/streams/player1/stream2.php</page>
+<referer>http://www.eplstream.net/</referer>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 <title>LIVE - FOOTBALL [COLOR red]Cardiff city vs Leeds utd[/COLOR]</title>  
 <link>$doregex[m3u8]</link>
 <regex>
