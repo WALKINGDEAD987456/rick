@@ -149,7 +149,7 @@
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Everton vs Middlesborough[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
@@ -162,26 +162,26 @@
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Everton vs Middlesborough[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream2.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream2.php</referer>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream5.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Everton vs Middlesborough[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream21.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream21.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]Everton vs Middlesborough[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]Man utd vs Watford[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
 <expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-1843</page>
+<page>http://widestream.io/embed-132</page>
 <referer>http://tvshqiphd.com/</referer>
 <cookieJar></cookieJar>
 </regex>
