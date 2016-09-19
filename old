@@ -206,6 +206,15 @@
 </item>
 
 <item>
+<title>PRINCE NASEEM VS KEVIN KELLY [COLOR red]19/12/97[/COLOR]</title>
+<sportsdevil>https://www.youtube.com/watch?v=vV4Bn1nkJ_E</sportsdevil>
+<referer>https://www.youtube.com/watch?v=vV4Bn1nkJ_E</referer>
+<thumbnail>https://i.ytimg.com/vi/vV4Bn1nkJ_E/hqdefault.jpg</thumbnail>
+<fanart>http://media.gettyimages.com/photos/dec-1997-prince-naseem-hamed-lands-a-punch-to-kevin-kelley-during-a-picture-id248340</fanart>
+</item>
+
+
+<item>
 <title>ENGLAND VS HOLLAND EURO 1996 1ST HALF [COLOR red]18/06/96[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
