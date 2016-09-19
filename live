@@ -149,7 +149,7 @@
 </item>
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
@@ -193,21 +193,21 @@
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream5.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
@@ -220,7 +220,6 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
@@ -233,7 +232,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <link>plugin://program.plexus/?url=42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=mm</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1054,7 +1053,7 @@ http://widestream.io/embed-1838
 <referer>http://www.ligtvkafe.de/kanal14.html</referer>
 </item>
 
-<item>
+
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
@@ -1086,13 +1085,13 @@ http://widestream.io/embed-1838
 </item>
 
 
-<item>
+
 <title>LIVE - NFL [COLOR red]REDZONE[/COLOR]</title>
 <link>http://azubuhlspull-a.akamaihd.net/a4879a9f0c9b8e26af28619ee5a3009b/eu-west-1/video404420CHynw/2400/index.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - NFL [COLOR red]REDZONE[/COLOR]</title>
 <link>rtmp://185.82.215.45:3579/vod/ playpath=lapa103?e=1474217889&st=f7yU8__zNj65Iew3sPUgrg428626 swfUrl=http://arsopo.com/flowplayer-3.2.16.swf pageUrl=http://arsopo.com/w1.php?hash=lapa103&crn=342313503.2367146</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
