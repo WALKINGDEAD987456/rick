@@ -6,32 +6,14 @@
 <thumbnail>http://www.csg-peru.com/images/tick-64px.png</thumbnail>
 </item>
 
+
+
+
+
+
 <item>
-<title>BOXING [COLOR gold]SAUL ALVAREZ VS LIAM SMITH[/COLOR] 17-09-16</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
-<regex>
-<name>final-url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
-<page>http://www.dailymotion.com/video/x4tojm4_saul-alvarez-vs-liam-smith-17-09-2016_sport</page>
-<referer></referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.boxingnews24.com/wp-content/uploads/2016/06/canelo9965.jpg</thumbnail>
-<fanart>http://www.boxingnews24.com/wp-content/uploads/2016/06/canelo9965.jpg</fanart>
-</item>
-
-
-
-
-
 <title>BOXING [COLOR gold]SAUL ALVAREZ VS LIAM SMITH[/COLOR] 17-09-16</title>         
-<link>http://www90.uptostream.com/21vn19z422c/360/0/video.mp4</link>
+<link>http://vidto.me/awoe0qd78nsa.html</link>
 <thumbnail>http://www.boxingnews24.com/wp-content/uploads/2016/06/canelo9965.jpg</thumbnail>
 <fanart>http://www.boxingnews24.com/wp-content/uploads/2016/06/canelo9965.jpg</fanart>
 </item>
