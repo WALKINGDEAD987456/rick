@@ -1172,4 +1172,16 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<iframe src='http://www.liveonlinetv247.info/embed/skysports1.php?width=650&height=480' width='650' height='480' name='myfr' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' webkitallowfullscreen='true' mozallowfullscreen='true' allowfullscreen='true'></iframe>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://widestream.io/embed-127</page>
+<referer>http://widestream.io/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
