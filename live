@@ -1098,7 +1098,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>TEST</title>
+<title>TEST2</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
 <regex>
