@@ -86,7 +86,7 @@
 </item>
 
 <item>
-<title>[COLOR red]lLIVE TV CHANNELS[/COLOR] [COLOR blue]Inc SPORTS[/COLOR] [COLOR yellow]LATEST SPORTSDEVIL NEEDED[/COLOR]</title>
+<title>[COLOR red]LIVE TV CHANNELS[/COLOR] [COLOR blue]Inc SPORTS[/COLOR] [COLOR yellow]LATEST SPORTSDEVIL NEEDED[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/tvone1.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://img11.hostingpics.net/pics/365638LIVE.png</thumbnail>
