@@ -1104,7 +1104,7 @@ http://widestream.io/embed-1838
 <regex>
 <name>get_m3u8</name>
 <expres>x-mpegurl" src="([^"]*)"</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&amp;height=480</page>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
