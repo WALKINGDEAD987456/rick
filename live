@@ -1127,6 +1127,13 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]DERBY VS LIVERPOOL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/533.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
 <item>
 <title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
 <info></info>
@@ -1142,6 +1149,15 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/530.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>LIVE - FOOTBALL [COLOR red]EVERTON VS NORWICH CITY[/COLOR]</title>
 <info></info>
@@ -1154,6 +1170,12 @@ http://widestream.io/embed-1838
 <agent>Mozilla/5.0</agent>
 <accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
 </regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]EVERTON VS NORWICH CITY[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/531.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
@@ -1185,3 +1207,8 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/694.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
