@@ -1097,7 +1097,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]DERBY VS LIVERPOOL[/COLOR]</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
@@ -1112,7 +1112,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]DERBY VS LIVERPOOL[/COLOR]</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
@@ -1128,13 +1128,13 @@ http://widestream.io/embed-1838
 </item>
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]DERBY VS LIVERPOOL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/533.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
@@ -1151,14 +1151,14 @@ http://widestream.io/embed-1838
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/530.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]EVERTON VS NORWICH CITY[/COLOR]</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
@@ -1173,13 +1173,13 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]EVERTON VS NORWICH CITY[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/531.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
 <info></info>
 <link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
@@ -1194,7 +1194,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
@@ -1207,7 +1207,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/694.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
