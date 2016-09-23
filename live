@@ -1212,3 +1212,37 @@ http://widestream.io/embed-1838
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/694.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>test</title>
+<link>$doregex[m3u8]|User-Agent=iPhone</link>
+<regex>
+<name>m3u8</name>
+<expres>hls.+?(http[^\']+)</expres>
+<page>$doregex[getpage]</page>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<accept>*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:'$doregex[get_xpage]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_xpage</name>
+<expres>["'](http[^'"]*)["']</expres>
+<page>http://www.streamgaroo.com/calls/get/source</page>
+<rawpost>h=$doregex[hrawpost]</rawpost>
+<referer>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+<x-req>XMLHttpRequest</x-req>
+<accept>*/*</accept>
+</regex>
+<regex>
+<name>hrawpost</name>
+<expres>title="SKY SPORTS 1".+?data-sh="(.*?)"</expres>
+<page>http://www.streamgaroo.com/live-television/united-kingdom/sky-sports-1-live-stream</page>
+</regex>
+</item>
