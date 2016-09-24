@@ -220,7 +220,8 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Manchester Utd vs Leicester City[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
