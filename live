@@ -162,8 +162,8 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Manchester Utd vs Leicester City[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>get_sxstream</name>
