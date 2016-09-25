@@ -25,7 +25,7 @@
 
 <title>[COLOR red]LIVE SPORTS CHANNELS[/COLOR] HQ</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=53&amp;name=GTV sports&amp;url=sss</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=79&amp;name=GTV sports&amp;url=http://mamahd.com/</jsonrpc>
 <thumbnail>http://img11.hostingpics.net/pics/365638LIVE.png</thumbnail>
 <fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
 </item>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR red]LIVE SPORTS[/COLOR] HQ</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=75&amp;name=StreamHD&amp;url=sss</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=79&amp;name=Mama HD&amp;url=http://mamahd.com/</jsonrpc>
 <thumbnail>http://www.cwemi.org/wp-content/uploads/2014/11/I-love-sports-clip-art.jpg</thumbnail>
 <fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
 </item>
