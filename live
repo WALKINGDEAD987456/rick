@@ -1239,7 +1239,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>test</title>
 <link>$doregex[getUrl]</link>
 <thumbnail></thumbnail>
