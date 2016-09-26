@@ -125,6 +125,18 @@
 </channel>
 </channels>
 
+<channels>
+ 
+<channel>
+    <name>MONDAY NIGHT FOOTBALL SHOW</name>
+<thumbnail>https://pbs.twimg.com/profile_images/502484793401950210/jhoaDbC0.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/MNF</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 
 <channels>
  
