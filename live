@@ -148,7 +148,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]BURNLEY VS WATFORD[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -1256,7 +1256,7 @@ http://widestream.io/embed-1838
 </item>
 http://80.82.78.61:8081/live/llive3tza.m3u8?e=1474906850&st=IK_15WEWzjEDi99c3BMijg
 
-<item>
+
 <title>test</title>
 <link>$doregex[getUrl]</link>
 <thumbnail></thumbnail>
