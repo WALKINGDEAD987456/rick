@@ -148,16 +148,17 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
 <title>LIVE - FOOTBALL [COLOR red]BURNLEY VS WATFORD[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
 <page>http://widestream.io/embed-1938</page>
-<referer>http://westreamsoccer.com/iframe/burnley-watford/439.html</referer>
+<referer>http://widestream.io/embed-1938</referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
 </regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 
