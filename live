@@ -245,11 +245,17 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream5.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream5.php</referer>
+<sportsdevil>http://widestream.io/embed-1955</sportsdevil>
+<referer>http://widestream.io/</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<sportsdevil>http://widestream.io/embed-1955</sportsdevil>
+<referer>http://widestream.io/embed-1955</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
 
 <title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
