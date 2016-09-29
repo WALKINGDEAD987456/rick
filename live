@@ -1349,3 +1349,10 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <referer>http://widestream.io/</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
+<item>
+<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream25.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream25.php</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
