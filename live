@@ -1333,7 +1333,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 
 <item
 <title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/4773.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ht.challenge.ovh:7040/live/157000/22432/7192.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
