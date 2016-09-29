@@ -1305,3 +1305,47 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <page></page>
 <cookieJar></cookieJar></regex>
 </item>
+
+<item>
+<title>[COLOR white]================================================================================================[/COLOR]</title>
+<sportsdevil>llllllllllllllll123</sportsdevil>
+<referer></referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR yellow]RYDER CUP 2016[/COLOR]</title>
+<sportsdevil>llllllllllllllll</sportsdevil>
+<referer></referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]================================================================================================[/COLOR]</title>
+<sportsdevil>llllllllllllllll123</sportsdevil>
+<referer></referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item
+<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/2212.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item
+<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service1.astrovida.tv:8000/live/ufhDpz7aJ07/3wOK6XTVMPc/4773.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
+<link></link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
+<sportsdevil>http://widestream.io/embed-1841</sportsdevil>
+<referer>http://widestream.io/</referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
