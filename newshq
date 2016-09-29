@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-
 <item>
+<title>SKY SPORTS NEWS</title>
+<link>http://149.202.207.8:8080/CHEEMAsyjkiy-sp-ns/Strm/index.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/502491052243038208/gKEvCXwg.png</thumbnail>
+<fanart>https://up.metropol247.co.uk/jordanhowell/20100823122502.jpg</fanart>
+</item>
+
+
 <title>SKY SPORTS NEWS</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
