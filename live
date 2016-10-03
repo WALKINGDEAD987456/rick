@@ -1380,32 +1380,32 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 
-<item>
+
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
-<item>
+
 <title>[COLOR yellow]RYDER CUP 2016[/COLOR]</title>
 <sportsdevil>llllllllllllllll</sportsdevil>
 <referer></referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
-<item>
+
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item
+
 <title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/2212.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item
+
 <title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ht.challenge.ovh:7040/live/157000/22432/7192.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1424,14 +1424,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream25.php</sportsdevil>
 <referer>http://wizhdsports.to/live/</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
 <sportsdevil>http://eplstream.org/streams/cfreesky4.html</sportsdevil>
 <referer>http://eplstream.org/streams/cfreesky4.html</referer>
