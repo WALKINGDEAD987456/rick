@@ -1307,7 +1307,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]SUNDAY FOOTBALL[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>rtmp://$doregex[get_rtmp]/flash app=flash playpath=$doregex[get_file]?$doregex[get_key]$doregex[get_Clear_keyB] conn=S:OK swfUrl=http://static3.sawlive.tv/player.swf flashver=WIN\2023,0,0,162 swfVfy=1 live=1 timeout=13 pageUrl=http://www.sawlive.tv/embed/watch/$doregex[get_Clear_key1]$doregex[get_key2]</link>
 <regex>
 <name>get_rtmp</name>
@@ -1379,7 +1379,32 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/81</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
