@@ -94,8 +94,8 @@
 <regex>
 <name>get-url</name>
 <expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
-<page></page>
-<referer>http://www.dailymotion.com/video/x2b6vfq_football-s-greatest-teams-real-madrid-c-f-documentary-full-hd_sport</referer>
+<page>http://www.dailymotion.com/video/x2b6vfq_football-s-greatest-teams-real-madrid-c-f-documentary-full-hd_sport</page>
+<referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
