@@ -84,7 +84,7 @@
 </item>
 
 <item>
-<title>FOOTBALLS GREATEST TEAM REAL MADRID</title>
+<title>FOOTBALLS GREATEST TEAM REAL MADRID [COLOR yellow]NEW[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
