@@ -82,3 +82,23 @@
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/93/c9/fe/93c9fec98b1fcc68591b08c288b807e7.jpg</thumbnail>
 <fanart>http://www.targetgroup.co.uk/wp-content/uploads/2016/08/1966-World-Cup.jpg</fanart>
 </item>
+
+<item>
+<title>FOOTBALLS GREATEST TEAM REAL MADRID</title>
+<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
+<page></page>
+<referer>http://www.dailymotion.com/video/x2b6vfq_football-s-greatest-teams-real-madrid-c-f-documentary-full-hd_sport</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://wallpapercave.com/wp/7sc60Tc.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/7sc60Tc.jpg</fanart>
+</item>
