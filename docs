@@ -84,6 +84,26 @@
 </item>
 
 <item>
+<title>LIONEL MESSI [COLOR yellow]NEW[/COLOR]</title>
+<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/video/x284jt1_lionel-messi-world-s-greatest-player_sport</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://e2.365dm.com/14/04/16-9/20/Lionel-Messi-v-Athletic-Bilbao_3128305.jpg?20140421081313</thumbnail>
+<fanart>http://e2.365dm.com/14/04/16-9/20/Lionel-Messi-v-Athletic-Bilbao_3128305.jpg?20140421081313</fanart>
+</item>
+
+<item>
 <title>20 TRANSFERS THAT SHOCKED THE WORLD [COLOR yellow]NEW[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
