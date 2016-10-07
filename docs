@@ -12,6 +12,26 @@
 </item>
 
 <item>
+<title>JOSE MOURINHO[COLOR yellow]NEW[/COLOR]</title>
+<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/video/xxkdnl_documentary-of-jose-mourinho-2013_sport</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/Hc2EqwT3Hb8/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Hc2EqwT3Hb8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>PEP</title>
 <link>http://cdn.phoenix.intergi.com/21772/videos/5105705/video-sd.mp4</link>
 <thumbnail>http://video.skysports.com/g5NHU0NTE6Nxw6mcy5psEyNaVBiMf_z7/promo294583350</thumbnail>
