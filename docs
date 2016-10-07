@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>JOSE MOURINHO[COLOR yellow]NEW[/COLOR]</title>
+<title>JOSE MOURINHO [COLOR yellow]NEW[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -27,8 +27,8 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.ytimg.com/vi/Hc2EqwT3Hb8/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Hc2EqwT3Hb8/maxresdefault.jpg</fanart>
+<thumbnail>http://media.chelseafconline.com/2015/07/Jose-Mourinho-chelsea.png</thumbnail>
+<fanart>http://media.chelseafconline.com/2015/07/Jose-Mourinho-chelsea.png</fanart>
 </item>
 
 <item>
