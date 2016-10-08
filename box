@@ -46,6 +46,7 @@
 <referer>http://wizhdsports.to/live/stream13.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
+
 <item>
 <title>LIVE - UFC [COLOR red]UFC 204[/COLOR]</title>
 <sportsdevil>http://widestream.io/embed-132</sportsdevil>
@@ -58,7 +59,7 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR red]UFC 204[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
