@@ -28,8 +28,8 @@
 <regex>
 <name>get_sxstream</name>
 <expres>file: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://streamhdeu.com/player1/stream1.php</page>
-<referer>http://streamhdeu.com/</referer>
+<page>http://10livestreams.com/player/stream1.php</page>
+<referer>http://10livestreams.com/</referer>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
