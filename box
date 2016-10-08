@@ -6,14 +6,14 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream6.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream6.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]SATURDAY FIGHT NIGHT[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/18257.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]BOXING[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -21,7 +21,7 @@
 
 
 
-<item>
+
 <title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -34,27 +34,27 @@
 </item>
 
 <item>
-<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<title>LIVE - UFC [COLOR red]UFC 204[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream7.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream7.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream56.php</sportsdevil>
-<referer>http://wizhdsports.to/live/stream56.php</referer>
+<title>LIVE - UFC [COLOR red]UFC 204[/COLOR]</title>
+<sportsdevil>http://wizhdsports.to/live/stream13.php</sportsdevil>
+<referer>http://wizhdsports.to/live/stream13.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>         
 <link>rtmp://185.82.215.46:3579/vod/ playpath=lapa1?e=1474153626&st=fBUsIcvMug0HNnQjW9KD0A486214  swfUrl=http://arsopo.com/flowplayer-3.2.16.swf  pageUrl=http://arsopo.com/w2.php?hash=lapa1&crn=397712096.0063028</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
+<title>LIVE - UFC [COLOR red]UFC 204[/COLOR]</title>
 <link>$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
@@ -66,13 +66,13 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/15352.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]UFC[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR]</title>
 <link>$doregex[file]|Referer=http://1streamking.co/btsport2&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
@@ -85,12 +85,12 @@
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - UFC [COLOR red]FIGHT NIGHT 94[/COLOR] ACE</title>
 <link>plugin://program.plexus/?url=a0267eed8c00950e4f9e2396559ff06ccf732ab4&amp;mode=1&amp;name=mm</link>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -102,27 +102,27 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream1.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream1.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
 <sportsdevil>http://wizhdsports.to/live/stream12.php</sportsdevil>
 <referer>http://wizhdsports.to/live/stream12.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bulkyiptv.com:5750/live/lucadipalo@libero.it/39hyEp59iC/14520.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]BOXING[/COLOR]</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - BOXING [COLOR red]Canelo Alvarez vs. Liam Smith[/COLOR] ACE</title>
 <link>plugin://program.plexus/?url=c80d6bfbd67dc9344acaa9fe6986995de720f70d&amp;mode=1&amp;name=mm</link>
 </item>
