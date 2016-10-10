@@ -2,17 +2,22 @@
 
 
 
-
+<item>
+<title>PREMIERSHIP YRS 05-06 [COLOR yellow]NEW[/COLOR]</title>
+<link>http://cdn.phoenix.intergi.com/19004/videos/5177697/video-sd.mp4</link>
+<thumbnail>http://i67.tinypic.com/2w5irl2.png</thumbnail>
+<fanart>http://www.footballgate.com/wp-content/uploads/2014/09/barclays-premier-league-logo-wallpaper-2014-2015.jpg</fanart>
+</item>
 
 <item>
-<title>ARSENE WENGER 20YRS SPECIAL [COLOR yellow]NEW[/COLOR]</title>
+<title>ARSENE WENGER 20YRS SPECIAL</title>
 <link>http://cdn.phoenix.intergi.com/19004/videos/5173168/video-sd.mp4</link>
 <thumbnail>https://d.ibtimes.co.uk/en/full/1419417/arsene-wenger.jpg</thumbnail>
 <fanart>https://d.ibtimes.co.uk/en/full/1419417/arsene-wenger.jpg</fanart>
 </item>
 
 <item>
-<title>JOSE MOURINHO [COLOR yellow]NEW[/COLOR]</title>
+<title>JOSE MOURINHO</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -62,21 +67,21 @@
 </item>
 
 <item>
-<title>ZIDANE A 21ST CENTURY PORTRAIT [COLOR yellow]NEW[/COLOR]</title>
+<title>ZIDANE A 21ST CENTURY PORTRAIT </title>
 <link>http://vidto.me/1a02ca4q8gb8.html</link>
 <thumbnail>http://video.skysports.com/t1cXZ5eTrAljUDFkzxItnYVrgoDGxcjd/promo276203780</thumbnail>
 <fanart>http://video.skysports.com/t1cXZ5eTrAljUDFkzxItnYVrgoDGxcjd/promo276203780</fanart>
 </item>
 
 <item>
-<title>CLASS OF 92 [COLOR yellow]NEW[/COLOR]</title>
+<title>CLASS OF 92</title>
 <link>http://vidto.me/6np3deou6lt8.html</link>
 <thumbnail>https://www.platekompaniet.no/globalassets/tore/tore2/class92sleeve.jpg</thumbnail>
 <fanart>http://theworldgame.sbs.com.au/sites/sbs.com.au.theworldgame/files/styles/full/public/The%20Class%20of%2092.jpg?itok=PyeHw4wz</fanart>
 </item>
 
 <item>
-<title>ALAN SHEARERS EURO 96 WHEN FOOTBALL CAME HOME [COLOR yellow]NEW[/COLOR]</title>
+<title>ALAN SHEARERS EURO 96 WHEN FOOTBALL CAME HOME</title>
 <link>http://vidzi.tv/mb031ng1v0in.html</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/UEFA_Euro_1996_logo.svg/756px-UEFA_Euro_1996_logo.svg.png</thumbnail>
 <fanart>http://www.telegraph.co.uk/content/dam/football/2016/03/29/shearergoal-large_trans++EDjTm7JpzhSGR1_8ApEWQA1vLvhkMtVb21dMmpQBfEs.jpg</fanart>
@@ -112,7 +117,7 @@
 </item>
 
 <item>
-<title>LIONEL MESSI [COLOR yellow]NEW[/COLOR]</title>
+<title>LIONEL MESSI </title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -132,7 +137,7 @@
 </item>
 
 <item>
-<title>20 TRANSFERS THAT SHOCKED THE WORLD [COLOR yellow]NEW[/COLOR]</title>
+<title>20 TRANSFERS THAT SHOCKED THE WORLD </title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -152,7 +157,7 @@
 </item>
 
 <item>
-<title>FOOTBALLS GREATEST TEAM REAL MADRID [COLOR yellow]NEW[/COLOR]</title>
+<title>FOOTBALLS GREATEST TEAM REAL MADRID</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
