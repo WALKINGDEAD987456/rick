@@ -1548,32 +1548,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>stream": "(.*?)"</expres>
-<page>$doregex[iframe]</page>
-<referer>http://streamm.eu/</referer>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>iframe</name>
-<expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/86</page>
-<referer>http://streamm.eu/</referer>
-<cookieJar>$doregex[createCFCookie]</cookieJar>
-</regex>
-<regex>
-<name>createCFCookie</name>                                                     
-<expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
+
 
 <item>
 <title>test</title>
