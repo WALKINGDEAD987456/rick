@@ -1397,7 +1397,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/81</page>
+<page>http://streamm.eu/live/80</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1424,7 +1424,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/80</page>
+<page>http://streamm.eu/live/81</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1437,6 +1437,158 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/82</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/83</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/84</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/85</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>stream": "(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamm.eu/live/86</page>
+<referer>http://streamm.eu/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>                                                     
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://streamm.eu/live/81',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+<title>[COLOR white]================================================================================================[/COLOR]</title>
+<sportsdevil>llllllllllllllll123</sportsdevil>
+<referer></referer>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+
+
+
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
@@ -1494,36 +1646,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
-<title>live resolver filmon-bbc</title>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.filmon.com/channel/bbc-one'):
-    import liveresolver
-    u = liveresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
-
-<item>
-<title>live url wizhd</title>
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://wizhdsports.to/live/stream6.php'):
-    import liveresolver
-    u = liveresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
