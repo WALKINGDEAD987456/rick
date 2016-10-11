@@ -100,7 +100,6 @@
 <thumbnail>http://img11.hostingpics.net/pics/365638LIVE.png</thumbnail>
 <fanart>http://atxsportsphotos.com/assets_d/54976/web_media/3ds_grass_texture241_173.jpg</fanart>
 </item>
-
 <item>
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
@@ -108,36 +107,6 @@
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR white]MORE LINKS SCROLL DOWN[/COLOR]</title>
-<sportsdevil>llllllllllllllll123</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white]================================================================================================[/COLOR]</title>
-<sportsdevil>llllllllllllllll123</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]JUST WANNA SAY A MASSIVE THANKYOU TO [/COLOR]</title>
-<sportsdevil>llllllllllllllll</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]TO EVERYONE FOR THERE SUPPORT[/COLOR]</title>
-<sportsdevil>llllllllllllllll</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-<item>
 <title>[COLOR white]================================================================================================[/COLOR]</title>
 <sportsdevil>llllllllllllllll123</sportsdevil>
 <referer></referer>
@@ -155,63 +124,6 @@
 <referer></referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
-
-
-<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-1955</page>
-<referer></referer>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-
-<title>LIVE - FOOTBALL [COLOR red]BURNLEY VS WATFORD[/COLOR]</title>
-<sportsdevil>http://widestream.io/embed-1938</sportsdevil>
-<referer>http://widestream.io/embed-1938</referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-
-
-
-<title>test</title>
-<link>http://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/643_6.m3u8?hdnea=st=1474801817~exp=1477393817~acl=/*~hmac=1ca545eb72dc1d018c9b750cd678b59eca1c76b115c62b464ff329607c0f7169|X-Forwaded-For=178.208.163.66</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-
-
-
-<title>test</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-1838</page>
-<referer>http://widestream.io/embed-1838</referer>
-</regex>
-</item>
-
-<title>LIVE - FOOTBALL [COLOR red]Tottenham hotspur vs Sunderland[/COLOR]</title>
-<link>$doregex[getM3U8]</link>
-<regex>
-<name>getM3U8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-1848</page>
-<referer>http://widestream.io/</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
 
 <title>LIVE - FOOTBALL [COLOR red]Manchester Utd vs Leicester City[/COLOR]</title>
 <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
