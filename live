@@ -1297,7 +1297,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]SLO VS ENG[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1324,7 +1324,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]N.IRE VS GER[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1463,7 +1463,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]SLO VS ENG[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1496,7 +1496,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]SLO VS ENG[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1529,7 +1529,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]N.IRE VS GER[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
