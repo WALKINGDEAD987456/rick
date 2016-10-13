@@ -1627,7 +1627,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>test</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb112/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 </item>
