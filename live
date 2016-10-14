@@ -1528,8 +1528,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </regex>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]N.IRE VS GER[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]CARDIFF VS BRISTOL[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
 <name>getToken</name>
@@ -1558,6 +1558,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <page>http://wizhdsports.to/live/stream1.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </regex>
 </item>
 
