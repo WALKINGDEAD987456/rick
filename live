@@ -1308,7 +1308,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/80</page>
+<page>http://streamm.eu/examples/i111.php</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
