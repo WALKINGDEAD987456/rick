@@ -1296,7 +1296,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE1[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR][COLOR red]DORTMUND VS H BERLIN[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
