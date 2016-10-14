@@ -1296,7 +1296,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE1[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1308,7 +1308,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/examples/i111.php</page>
+<page>http://www.streamm.eu/live/dortmund-vs-hertha-berlin</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
