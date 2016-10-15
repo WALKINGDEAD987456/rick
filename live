@@ -1222,7 +1222,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
 <link>rtmp://$doregex[get_rtmp]/flash app=flash playpath=$doregex[get_file]?$doregex[get_key]$doregex[get_Clear_keyB] conn=S:OK swfUrl=http://static3.sawlive.tv/player.swf flashver=WIN\2023,0,0,162 swfVfy=1 live=1 timeout=13 pageUrl=http://www.sawlive.tv/embed/watch/$doregex[get_Clear_key1]$doregex[get_key2]</link>
 <regex>
 <name>get_rtmp</name>
@@ -1296,7 +1296,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]DORTMUND VS H BERLIN[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1308,7 +1308,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://www.streamm.eu/live/dortmund-vs-hertha-berlin</page>
+<page>http://www.streamm.eu/live/chelsea-vs-leicester</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
