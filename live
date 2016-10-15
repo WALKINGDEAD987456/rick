@@ -1679,8 +1679,8 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]ASON VILLA VS WOLVES[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
 <name>getToken</name>
@@ -1699,14 +1699,14 @@ http://widestream.io/embed-1838
 <name>getCurl</name>
 <expres>curl = "(.*?)"</expres>
 <page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
-<referer>http://wizhdsports.to/live/stream25.php</referer>
+<referer>http://wizhdsports.to/live/stream1.php</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getID</name>
 <expres>id='(.*?)'</expres>
-<page>http://wizhdsports.to/live/stream25.php</page>
+<page>http://wizhdsports.to/live/stream1.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1719,8 +1719,8 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]WEST BROM VS TOTTENHAM[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]CRYSTAL PALACE VS WEST HAM[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
 <name>getToken</name>
@@ -1739,14 +1739,14 @@ http://widestream.io/embed-1838
 <name>getCurl</name>
 <expres>curl = "(.*?)"</expres>
 <page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
-<referer>http://wizhdsports.to/live/stream26.php</referer>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getID</name>
 <expres>id='(.*?)'</expres>
-<page>http://wizhdsports.to/live/stream26.php</page>
+<page>http://wizhdsports.to/live/stream4.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
