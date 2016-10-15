@@ -1515,21 +1515,21 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <name>getCurl</name>
 <expres>curl = "(.*?)"</expres>
 <page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
-<referer>http://wizhdsports.to/live/stream9.php</referer>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getID</name>
 <expres>id='(.*?)'</expres>
-<page>http://wizhdsports.to/live/stream9.php</page>
+<page>http://wizhdsports.to/live/stream4.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]CARDIFF VS BRISTOL[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
 <name>getToken</name>
@@ -1548,14 +1548,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <name>getCurl</name>
 <expres>curl = "(.*?)"</expres>
 <page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
-<referer>http://wizhdsports.to/live/stream1.php</referer>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getID</name>
 <expres>id='(.*?)'</expres>
-<page>http://wizhdsports.to/live/stream1.php</page>
+<page>http://wizhdsports.to/live/stream4.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1629,8 +1629,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]CARDIFF VS BRISTOL[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb130/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
+<item>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
+<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb156/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
