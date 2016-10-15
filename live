@@ -1265,7 +1265,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]MANCHESTER CITY VS EVERTON[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]MANCHESTER CITY VS EVERTON[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1293,7 +1293,7 @@ http://widestream.io/embed-1838
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]ARESNAL VS SWANSEA[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]ARESNAL VS SWANSEA[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1320,7 +1320,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1347,7 +1347,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1374,7 +1374,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]WEST BROM VS TOTTENHAM[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]WEST BROM VS TOTTENHAM[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1516,6 +1516,40 @@ http://widestream.io/embed-1838
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream4.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb156/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
@@ -1527,9 +1561,77 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
+<title>LIVE - FOOTBALL [COLOR red]MANCHESTER CITY VS EVERTON[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream4.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream4.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
 <title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb154/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream27.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream27.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
 </item>
 
 <item>
@@ -1539,9 +1641,77 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
+<title>LIVE - FOOTBALL [COLOR red]ARSENAL VS SWANSEA[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream28.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream28.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
 <title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb157/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream25.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream25.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
 </item>
 
 <item>
@@ -1550,5 +1720,37 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>LIVE - FOOTBALL [COLOR red]WEST BROM VS TOTTENHAM[/COLOR]</title>
+<link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>getToken</name>
+<expres>token":"(.*?)"</expres>
+<page>http://bro.adca.st/getToken.php</page>
+<referer>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>getDecCurl</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getCurl]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getCurl</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
+<referer>http://wizhdsports.to/live/stream26.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getID</name>
+<expres>id='(.*?)'</expres>
+<page>http://wizhdsports.to/live/stream26.php</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</regex>
+</item>
 
