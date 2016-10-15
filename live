@@ -1164,7 +1164,7 @@ http://widestream.io/embed-1838
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]CRYSTAL PALACE VS WEST HAM[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
 <link>rtmp://$doregex[get_rtmp]/flash app=flash playpath=$doregex[get_file]?$doregex[get_key]$doregex[get_Clear_keyB] conn=S:OK swfUrl=http://static3.sawlive.tv/player.swf flashver=WIN\2023,0,0,162 swfVfy=1 live=1 timeout=13 pageUrl=http://www.sawlive.tv/embed/watch/$doregex[get_Clear_key1]$doregex[get_key2]</link>
 <regex>
 <name>get_rtmp</name>
