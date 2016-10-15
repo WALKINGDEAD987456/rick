@@ -1323,7 +1323,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]MANCHESTER CITY VS EVERTON[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1335,7 +1335,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/81</page>
+<page>http://www.streamm.eu/live/manchester-city-vs-everton</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1351,7 +1351,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]ARESNAL VS SWANSEA[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1363,7 +1363,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/82</page>
+<page>http://www.streamm.eu/live/arsenal-vs-swansea</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1378,7 +1378,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1390,7 +1390,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/83</page>
+<page>http://www.streamm.eu/live/bournemouth-vs-hull-city</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1405,7 +1405,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]STOKE CITY VS SUNDERLAND[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1417,7 +1417,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/84</page>
+<page>http://www.streamm.eu/live/stoke-city-vs-sunderland</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1432,7 +1432,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red]WEST BROM VS TOTTENHAM[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1444,7 +1444,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://streamm.eu/live/85</page>
+<page>http://www.streamm.eu/live/west-brom-vs-tottenham</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
