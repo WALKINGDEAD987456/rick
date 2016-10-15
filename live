@@ -1257,7 +1257,7 @@ http://widestream.io/embed-1838
 <regex>
 <name>createCFCookie</name>                                                     
 <expres></expres>
-<page>$pyFunction:cloudflare.createCookie('http://www.streamm.eu/live/chelsea-vs-leicester',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<page>$pyFunction:cloudflare.createCookie('http://www.streamm.eu/',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
