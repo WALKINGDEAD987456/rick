@@ -1121,27 +1121,7 @@ http://widestream.io/embed-1838
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
-<info></info>
-<link>$doregex[get_m3u8]|Referer=http://www.liveonlinetv247.info/&amp;User-Agent: iPhone</link>
-<regex>
-<name>get_m3u8</name>
-<expres>x-mpegurl" src="([^"]*)"</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&amp;height=480</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent>Mozilla/5.0</agent>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
-
-
-
-<title>LIVE - FOOTBALL [COLOR red]NOTTS FOREST VS ARSENAL[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/530.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 
 
@@ -1160,10 +1140,7 @@ http://widestream.io/embed-1838
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]EVERTON VS NORWICH CITY[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/531.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 
 <title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
@@ -1181,45 +1158,10 @@ http://widestream.io/embed-1838
 </item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
-<link>$doregex[getM3U8]</link>
-<regex>
-<name>getM3U8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://widestream.io/embed-127</page>
-<referer>http://widestream.io/</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 
-<title>LIVE - FOOTBALL [COLOR red]LEICESTER CITY VS CHELSEA[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/694.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR red]FOOTBALL[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-http://80.82.78.61:8081/live/llive3tza.m3u8?e=1474906850&st=IK_15WEWzjEDi99c3BMijg
 
 
-<title>test</title>
-<link>$doregex[getUrl]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=llive3tza'):
- import requests, re, base64
- ua = 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
- headers = {'User-Agent': ua, 'Referer': 'http://www.streamhd.eu/', 'Connection': 'keep-alive', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
- s0 = requests.get(url, headers = headers).text
- page = re.findall('src=(.*/player.*?)&', s0)[0]
- headers2 = {'User-Agent': ua, 'Referer': url, 'Connection': 'keep-alive', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
- s1 = requests.get(page, headers = headers2).text
- return re.findall('file:"(.*?)"', s1)[0]
-]]></expres>
-<page></page>
-<cookieJar></cookieJar></regex>
-</item>
 
 <item>
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
@@ -1562,71 +1504,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://hdcast.org/streamhd.php?u=
 </regex>
 </item>
 
-<title>[COLOR white]================================================================================================[/COLOR]</title>
-<sportsdevil>llllllllllllllll123</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 
 
-
-<title>[COLOR white]================================================================================================[/COLOR]</title>
-<sportsdevil>llllllllllllllll123</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-<title>[COLOR yellow]RYDER CUP 2016[/COLOR]</title>
-<sportsdevil>llllllllllllllll</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-<title>[COLOR white]================================================================================================[/COLOR]</title>
-<sportsdevil>llllllllllllllll123</sportsdevil>
-<referer></referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/gary/gary/2212.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ht.challenge.ovh:7040/live/157000/22432/7192.ts&amp;streamtype=TSDOWNLOADER;name=[COLOR yellow]RYDER CUP[/COLOR]</link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<link></link>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<sportsdevil>http://widestream.io/embed-1841</sportsdevil>
-<referer>http://widestream.io/</referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<sportsdevil>http://wizhdsports.to/live/stream25.php</sportsdevil>
-<referer>http://wizhdsports.to/live/</referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
-
-
-<title>LIVE - GOLF [COLOR yellow]RYDER CUP[/COLOR]</title>
-<sportsdevil>http://eplstream.org/streams/cfreesky4.html</sportsdevil>
-<referer>http://eplstream.org/streams/cfreesky4.html</referer>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]CHELSEA VS LEICESTER CITY[/COLOR]</title>
