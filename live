@@ -1753,3 +1753,8 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
+<item>
+<title>test1</title>
+<sportsdevil>http://10livestreams.com/player/stream15.php</sportsdevil>
+<referer>http://10livestreams.com/player/stream15.php</referer>
+</item>
