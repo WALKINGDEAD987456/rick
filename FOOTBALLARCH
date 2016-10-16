@@ -74,3 +74,16 @@
 <thumbnail>http://footballia.net/matches/england-germany/preview_image</thumbnail>
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
+
+
+
+<item>
+<title>test</title>
+<link>
+<sublink>http://www.ibrod.tv/skysports1.html</sublink>
+<sublink>http://firstrowfr.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
+<sublink>http://hdfree.tv/watch/2/sky-sports-1.html</sublink>
+<sublink>http://zunox.hk/sky1frame.html</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
+</item>
