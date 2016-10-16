@@ -1242,7 +1242,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]MIDDLESBROUGH VS WATFORD[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1269,7 +1269,7 @@ http://widestream.io/embed-1838
 </item>
 
 <item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]SOUTHAMPTON VS BURNLEY[/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1637,13 +1637,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]HUDDLESFIELD TOWN VS SHEFF WED[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb131/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]HUDDLESFIELD TOWN VS SHEFF WED[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1677,13 +1677,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]MIDDLESBROUGH VS WATFORD[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb130/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]MIDDLESBROUGH VS WATFORD[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1717,13 +1717,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]SOUTHAMPTON VS BURNLEY[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb130/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]SOUTHAMPTON VS BURNLEY[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1757,7 +1757,7 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>test1</title>
 <sportsdevil>http://10livestreams.com/player/stream15.php</sportsdevil>
 <referer>http://10livestreams.com/player/stream15.php</referer>
