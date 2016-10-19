@@ -39,9 +39,9 @@
 </item>
 
 <item>
-<title>[COLOR white]FA CUP FINAL[/COLOR] [COLOR yellow]COVENTRY VS TOTTENHAM[/COLOR] [COLOR red]86-87[/COLOR]</title>
-<link>http://footballia.net/uploads/video/source_file/970/1986-87_Coventry_-_Tottenham_-_1.mp4</link>
-<link>http://footballia.net/uploads/video/source_file/971/1986-87_Coventry_-_Tottenham_-_2.mp4</link>
+<title>2[COLOR white]FA CUP FINAL[/COLOR] [COLOR yellow]COVENTRY VS TOTTENHAM[/COLOR] [COLOR red]86-87[/COLOR]</title>
+<link>http://footballia.net/uploads/video/source_file/970/1986-87_Coventry_-_Tottenham_-_1.mp4$$lsname=MAIN GAME</link>
+<link>http://footballia.net/uploads/video/source_file/971/1986-87_Coventry_-_Tottenham_-_2.mp4$$lsname=EXTRA TIME</link>
 <thumbnail>http://footballia.net//matches/coventry-city-tottenham-hotspur/preview_image</thumbnail>
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
@@ -79,96 +79,11 @@
 
 
 <item>
-<title>test</title>
-<link>
-<sublink>http://www.ibrod.tv/skysports1.html</sublink>
-<sublink>http://firstrowfr.eu/watch/411012/1/watch-sky-sports-1.html</sublink>
-<sublink>http://hdfree.tv/watch/2/sky-sports-1.html</sublink>
-<sublink>http://zunox.hk/sky1frame.html</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
-</item>
-
-
-<title>[COLOR blue]Movie[/COLOR] Hercules (2014) HD [COLOR lime]10/21[/COLOR]</title>
-<link>
-<sublink>http://mightyupload.com/v274dg0v46x4/Hercules.2014.EXTENDED.720p.WEB-DL.DD5.1.H.264-PLAYNOW.mkv.html</sublink>
-<sublink>http://mrfile.me/f2xl8z0iaheu</sublink>
-<sublink>http://billionuploads.com/bfa2bny0assf</sublink>
-<sublink>http://movreel.com/btqd63nbgfvs</sublink>
-<sublink>http://hugefiles.net/jslnk8btnatc</sublink>
-<sublink>http://180upload.com/vasmuhei1wf9</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/original/i20OXzuACc0FZj37BKEG75BhB6G.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein</title>
-<multilink>
-<link>http://link1</link>
-<link>http://link2</link>
-</multilink>
-</item>
-
-<item>
-<title>tv12</title>
-<subitems>
-<subitem>
-<name>tv1-1</name>
-<link>mms://some/place</link>
-<thumbnail>http://thumb.png </thumbnail>
-</subitem>
-<subitem>
-<name>tv1-2</name>
-<link>http://some/place/channel_4.mp4</link>
-<thumbnail>http://thumb.png</thumbnail>
-</subitem>
-</subitems>	
-</item>
-
-<item>
 <title></title>
 <link></link>
 <link></link>
 <link></link>
 </item>
 
-<items>
-<item>
-<title>FILM 4</title>
-<link>mms://some/place</link>
-<thumbnail>http://thumb.png </thumbnail>
-</item>
-<item>
-<title>CHANNEL 4</title>
-<link>http://some/place/channel_4.mp4</link>
-<thumbnail>http://thumb.png</thumbnail>
-</item>
-</items>	
-
- <channel>
-    <name>Television</name>
-    <thumbnail>http://television.png</thumbnail>
-    <fanart>http://fanart.jpg</fanart>
-    <subchannel>
-        <name>Tv 1</name>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
-            <subitems>
-                <subitem>
-                <title>tv1-1</title>
-                <link>mms://some/place</link>
-                <thumbnail>http://thumb.png </thumbnail>
-                </subitem>
-
-                <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
-                <thumbnail>http://thumb.png</thumbnail>
-                </subitem>
-            </subitems>	
-        </channel>
-    </subchannel>
-    
-
+	
 
