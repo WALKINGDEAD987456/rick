@@ -127,13 +127,24 @@
 </item>
 
 <item>
-<title>BT sport 1</title>
-<link>http://mrfile.me/f2xl8z0iaheu</link>
-<link>http://hugefiles.net/jslnk8btnatc</link>
-<link>regex,rtmp,http://hugefiles.net/jslnk8btnatc</link>
+<title></title>
+<link></link>
+<link></link>
+<link></link>
 </item>
 
-
+<items>
+<item>
+<title>FILM 4</title>
+<link>mms://some/place</link>
+<thumbnail>http://thumb.png </thumbnail>
+</item>
+<item>
+<title>CHANNEL 4</title>
+<link>http://some/place/channel_4.mp4</link>
+<thumbnail>http://thumb.png</thumbnail>
+</item>
+</items>	
 
  <channel>
     <name>Television</name>
