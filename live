@@ -1297,7 +1297,7 @@ http://widestream.io/embed-1838
 
 
 <item>
-<title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]arsenal-vs-ludogorets[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1309,7 +1309,7 @@ http://widestream.io/embed-1838
 <regex>
 <name>iframe</name>
 <expres>iframe src="(.*?)"</expres>
-<page>http://www.streamm.eu/live/arsenal-vs-swana</page>
+<page>http://streamm.eu/live/arsenal-vs-ludogorets</page>
 <referer>http://streamm.eu/</referer>
 <cookieJar>$doregex[createCFCookie]</cookieJar>
 </regex>
@@ -1563,8 +1563,8 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]MANCHESTER CITY VS EVERTON[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Arsenal vs FC Ludogoretz[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
 <name>getToken</name>
@@ -1583,23 +1583,23 @@ http://widestream.io/embed-1838
 <name>getCurl</name>
 <expres>curl = "(.*?)"</expres>
 <page>http://bro.adca.st/stream.php?id=$doregex[getID]&amp;width=100%&amp;height=100%&amp;stretching=uniform&amp;p=1</page>
-<referer>http://wizhdsports.to/live/stream4.php</referer>
+<referer>http://wizhdsports.to/live/stream3.php</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 </regex>
 <regex>
 <name>getID</name>
 <expres>id='(.*?)'</expres>
-<page>http://wizhdsports.to/live/stream4.php</page>
+<page>http://wizhdsports.to/live/stream3.php</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </regex>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]BOURNEMOUTH VS HULL CITY[/COLOR]</title>
-<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb154/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Arsenal vs FC Ludogoretz[/COLOR]</title>
+<link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb138/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
