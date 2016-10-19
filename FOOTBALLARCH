@@ -126,7 +126,12 @@
 </subitems>	
 </item>
 
-
+<item>
+<title>BT sport 1</title>
+<link>rtmp,m3u8,...</link>
+<link>rtmp,m3u8,...</link>
+<link>regex,rtmp,...</link>
+</item>
 
 
 
