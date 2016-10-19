@@ -85,5 +85,10 @@
 <link></link>
 </item>
 
-	
+<item>
+<title>multilink_test</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8$$lsname=TRT</link>
+<link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+</item>	
 
