@@ -102,5 +102,12 @@
 <thumbnail>http://image.tmdb.org/t/p/original/i20OXzuACc0FZj37BKEG75BhB6G.jpg</thumbnail>
 </item>
 
+<item>
+<title>Bein</title>
+<multilink>
+<link>http://link1</link>
+<link>http://link2</link>
+</multilink>
+</item>
 
 
