@@ -1563,7 +1563,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Arsenal vs FC Ludogoretz[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1597,13 +1597,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Arsenal vs FC Ludogoretz[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb138/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Celtic vs Borussia Monchengladbach[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1637,13 +1637,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Celtic vs Borussia Monchengladbach[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb152/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Barcelona vs Manchester City[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1677,13 +1677,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Barcelona vs Manchester City[/COLOR]</title>
 <link>http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb137/playlist.m3u8|Referer=http://www.playerapp1.pw/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Barcelona vs Manchester City[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
@@ -1723,7 +1723,7 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]CHAMPIONS LEAGUE SIMULCAST[/COLOR]</title>
 <link>$doregex[getDecCurl]$doregex[getToken]|Referer=http://cdn.allofme.site/jw/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
 <regex>
