@@ -110,6 +110,26 @@
 </multilink>
 </item>
 
+<item>
+<title>tv1</title>
+<subitems>
+<subitem>
+<title>tv1-1</title>
+<link>mms://some/place</link>
+<thumbnail>http://thumb.png </thumbnail>
+</subitem>
+<subitem>
+<title>tv1-2</title>
+<link>http://some/place/channel_4.mp4</link>
+<thumbnail>http://thumb.png</thumbnail>
+</subitem>
+</subitems>	
+</item>
+
+
+
+
+
  <channel>
     <name>Television</name>
     <thumbnail>http://television.png</thumbnail>
