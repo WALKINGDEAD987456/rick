@@ -103,28 +103,10 @@
 <fanart>https://www.boxingnewsandviews.com/wp-content/uploads/2015/11/Tyson-Fury-vs-Wladimir-Klitschko-Full-Fight-628x356.jpg</fanart>
 </item>
 
-<item>
-<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
-<regex>
-<name>final-url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
-<page>http://www.dailymotion.com/video/x2il6tx_ucl-2012-final-bayern-munich-vs-chelsea_sport</page>
-<referer></referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/I2eSUhNc8rg/maxresdefault.jpg</thumbnail>
-<fanart>https://static01.nyt.com/images/2012/05/20/sports/soccer/20soccer/20soccer-blog480.jpg</fanart>
-</item>
+
 
 <item>
-<title>BAYERN MUNCHEN VS CHELSEA</title>
+<title>BAYERN MUNCHEN VS CHELSEA UCL 2012 [COLOR red]19/05/12[/COLOR]</title>
 <link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
@@ -139,6 +121,8 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>https://i.ytimg.com/vi/I2eSUhNc8rg/maxresdefault.jpg</thumbnail>
+<fanart>https://static01.nyt.com/images/2012/05/20/sports/soccer/20soccer/20soccer-blog480.jpg</fanart>
 </item>
 
 
@@ -153,7 +137,7 @@
 </item>
 
 <item>
-<title>ARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
+<title>tARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
 <link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
 <regex>
 <name>final-url</name>
@@ -162,7 +146,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"1080":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"1080"".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/embed/video/x2ikz91</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
