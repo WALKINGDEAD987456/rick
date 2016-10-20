@@ -22,7 +22,25 @@
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR white]UCL FINAL 2005[/COLOR] [COLOR yellow]LIVERPOOL VS AC MILAN[/COLOR] [COLOR red]2005[/COLOR]</title>
+<link>$doregex[final-url]</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"720".*?video.*?mp4","url":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/embed/video/x2ikxi8</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>image":"/matches/liverpool-fc-ac-milan/preview_image</thumbnail>
+<fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
+</item>
 
 
 <item>
