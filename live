@@ -1160,9 +1160,9 @@ http://widestream.io/embed-1838
 
 
 
-
-<title>LIVE -  [COLOR green]ONLINE[/COLOR] [COLOR red][/COLOR]</title>
-<link>http://stream-ec2.vty.dailymotion.com/50/dm/1/x4xo36e/live.isml/events(live-1476635581)/live-audio=128000-video=1200000.m3u8</link>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
+<link>http://hitbox.gcdn.co/hls/tany2/index.m3u8?st=RfOShfpT4vtSK7uTN7LGXw;ci=vhLBaZbUzDNf7T8FFQYqng</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
@@ -1241,8 +1241,8 @@ http://widestream.io/embed-1838
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]barcelona-vs-manchester city[/COLOR]</title>
+
+<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -1268,7 +1268,7 @@ http://widestream.io/embed-1838
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]celtic-vs-borussia-monchengladbach[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -1296,7 +1296,7 @@ http://widestream.io/embed-1838
 </item>
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR] [COLOR red]arsenal-vs-ludogorets[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -1323,7 +1323,7 @@ http://widestream.io/embed-1838
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -1350,7 +1350,7 @@ http://widestream.io/embed-1838
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
@@ -1377,7 +1377,7 @@ http://widestream.io/embed-1838
 <fanart></fanart>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]OFFLINE[/COLOR] [COLOR red][/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
