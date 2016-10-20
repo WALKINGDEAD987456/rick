@@ -38,7 +38,7 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>image":"/matches/liverpool-fc-ac-milan/preview_image</thumbnail>
+<thumbnail>http://footballia.net//matches/liverpool-fc-ac-milan/preview_image</thumbnail>
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
 
