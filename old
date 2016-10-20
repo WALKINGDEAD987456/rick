@@ -162,8 +162,8 @@
 
 
 <item>
-<title>LIVERPOOL VS AC MILAN UCL 2005 [COLOR red]25/05/05[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<title>4LIVERPOOL VS AC MILAN UCL 2005 [COLOR red]25/05/05[/COLOR]</title>
+<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.c7f4a923bc.swf</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -181,7 +181,7 @@
 <fanart>http://vignette2.wikia.nocookie.net/liverpoolfc/images/7/79/Lfc_cl_final.jpg/revision/latest?cb=20110708122805</fanart>
 </item>
 
-<item>
+
 <title>LIVERPOOL VS AC MILAN UCL 2005 [COLOR red]25/05/05[/COLOR]</title>
 <sportsdevil>http://www.dailymotion.com/embed/video/x2ikxi8</sportsdevil>
 <referer>http://www.dailymotion.com/embed/video/x2ikxi8</referer>
