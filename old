@@ -227,7 +227,7 @@
 </item>
 
 <item>
-<title>EVANDER HOLYFIELD VS MIKE TYSON [COLOR red]28/06/97[/COLOR]</title>
+<title>[COLOR yellow]NEW[/COLOR] EVANDER HOLYFIELD VS MIKE TYSON [COLOR red]28/06/97[/COLOR]</title>
 <link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
