@@ -123,6 +123,26 @@
 <fanart>https://static01.nyt.com/images/2012/05/20/sports/soccer/20soccer/20soccer-blog480.jpg</fanart>
 </item>
 
+<item>
+<title>BAYERN MUNCHEN VS CHELSEA</title>
+<link>$doregex[final-url]</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>720".*?video.*?mp4","url":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/video/x2il6tx_ucl-2012-final-bayern-munich-vs-chelsea_sport</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
 
 <item>
 <title>CARL FROCH VS JEAN PASCAL [COLOR red]06/12/08[/COLOR]</title>
