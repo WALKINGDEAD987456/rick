@@ -227,6 +227,29 @@
 </item>
 
 <item>
+<title>EVANDER HOLYFIELD VS MIKE TYSON [COLOR red]28/06/97[/COLOR]</title>
+<link>$doregex[final-url]</link>
+<regex>
+<name>final-url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"380".*?video.*?mp4","url":"(.*?)"</expres> 
+<page>http://www.dailymotion.com/video/x2heiv0</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://kofightposters.com/images/items/626/0.jpg</thumbnail>
+<fanart>http://www.dailystormer.com/wp-content/uploads/2016/08/67849.jpg</fanart>
+</item>
+
+
+
+
+<item>
 <title>NEWCASTLE UTD VS BARCELONA [COLOR red]17/09/97[/COLOR]</title>
 <sportsdevil>https://www.youtube.com/watch?v=RzHzGs_A7QY</sportsdevil>
 <referer>https://www.youtube.com/watch?v=RzHzGs_A7QY</referer>
