@@ -137,8 +137,8 @@
 </item>
 
 <item>
-<title>tARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<title>aARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -146,7 +146,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"1080"".*?video.*?mp4","url":"(.*?)"</expres> 
+<expres>"1080".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/embed/video/x2ikz91</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
