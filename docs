@@ -43,7 +43,7 @@
 
 <item>
 <title>JOSE MOURINHO</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -51,7 +51,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/xxkdnl_documentary-of-jose-mourinho-2013_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -143,7 +143,7 @@
 
 <item>
 <title>LIONEL MESSI </title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -151,7 +151,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x284jt1_lionel-messi-world-s-greatest-player_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -163,7 +163,7 @@
 
 <item>
 <title>20 TRANSFERS THAT SHOCKED THE WORLD </title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -171,7 +171,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x26y1ga_20-football-transfers-that-shocked-the-world_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -183,7 +183,7 @@
 
 <item>
 <title>FOOTBALLS GREATEST TEAM REAL MADRID</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -191,7 +191,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"720".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x2b6vfq_football-s-greatest-teams-real-madrid-c-f-documentary-full-hd_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
