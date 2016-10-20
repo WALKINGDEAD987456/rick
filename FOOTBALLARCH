@@ -22,25 +22,6 @@
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]UCL FINAL 2005[/COLOR] [COLOR yellow]LIVERPOOL VS AC MILAN[/COLOR] [COLOR red]2005[/COLOR]<</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
-<regex>
-<name>final-url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
-<page>http://www.dailymotion.com/embed/video/x2ikxi8</page>
-<referer></referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.iconicphotogalleries.co.uk/content/thumbnails/00028/02696-mainmedimage.jpg</thumbnail>
-<fanart>http://vignette2.wikia.nocookie.net/liverpoolfc/images/7/79/Lfc_cl_final.jpg/revision/latest?cb=20110708122805</fanart>
-</item>
 
 
 
