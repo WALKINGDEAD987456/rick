@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>[COLOR white]PREMIER LEAGUE[/COLOR] [COLOR yellow]TOTTENHAM VS CHELSEA/COLOR] [COLOR red]14-15[/COLOR]</title>
+<title>[COLOR yellow]NEW[/COLOR] [COLOR white]PREMIER LEAGUE[/COLOR] [COLOR yellow]TOTTENHAM VS CHELSEA/COLOR] [COLOR red]14-15[/COLOR]</title>
 <link>http://videa.hu/static/video/3.898105.1781869</link>
 <link>http://videa.hu/static/video/3.898106.1781869</link>
 <thumbnail>http://footballia.net/matches/tottenham-hotspur-chelsea-fc/preview_image</thumbnail>
@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[COLOR white]UCL FINAL 2005[/COLOR] [COLOR yellow]LIVERPOOL VS AC MILAN[/COLOR] [COLOR red]2005[/COLOR]</title>
+<title>[COLOR yellow]NEW[/COLOR] [COLOR white]UCL FINAL 2005[/COLOR] [COLOR yellow]LIVERPOOL VS AC MILAN[/COLOR] [COLOR red]2005[/COLOR]</title>
 <link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
@@ -60,17 +60,13 @@
 </item>
 
 <item>
-<title>[COLOR white]FIRST DIVISION[/COLOR] [COLOR yellow]LIVERPOOL VS ARSENAL[/COLOR] [COLOR red]88-89[/COLOR]</title>
+<title>[COLOR yellow]NEW[/COLOR] [COLOR white]FIRST DIVISION[/COLOR] [COLOR yellow]LIVERPOOL VS ARSENAL[/COLOR] [COLOR red]88-89[/COLOR]</title>
 <link>http://footballia.net/uploads/video/source_file/1142/1988-89_Liverpool_-_Arsenal.mp4</link>
 <thumbnail>http://footballia.net/matches/liverpool-fc-arsenal-fc-premier-league-1989-1990/preview_image</thumbnail>
 <fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
 </item>
 
-<title>[COLOR white]FA CUP FINAL[/COLOR] [COLOR yellow]COVENTRY VS TOTTENHAM[/COLOR] [COLOR red]86-87[/COLOR]</title>
-<link>http://footballia.net//uploads/video/source_file/970/1986-87_Coventry_-_Tottenham_-_1.mp4</link>
-<thumbnail>http://footballia.net//matches/coventry-city-tottenham-hotspur/preview_image</thumbnail>
-<fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR white]FA CUP FINAL INC EXTRA TIME[/COLOR] [COLOR yellow]COVENTRY VS TOTTENHAM[/COLOR] [COLOR red]86-87[/COLOR]</title>
@@ -82,11 +78,6 @@
 </item>
 
 
-<title>[COLOR white]FA CUP FINAL ET[/COLOR] [COLOR yellow]COVENTRY VS TOTTENHAM[/COLOR] [COLOR red]86-87[/COLOR]</title>
-<link>http://footballia.net//uploads/video/source_file/971/1986-87_Coventry_-_Tottenham_-_2.mp4</link>
-<thumbnail>http://footballia.net//matches/coventry-city-tottenham-hotspur/preview_image</thumbnail>
-<fanart>http://www.folk.wales/images/archive-bg.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR white]EUROPEAN CUP[/COLOR] [COLOR yellow]NOTTM FOREST VS HAMBURG[/COLOR] [COLOR red]79-80[/COLOR]</title>
