@@ -137,7 +137,7 @@
 </item>
 
 <item>
-<title>aARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
+<title>ARSENAL VS BARCELONA UCL 2006 [COLOR red]17/06/06[/COLOR]  [COLOR yellow]*NEW*[/COLOR]</title>
 <link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
@@ -166,8 +166,8 @@
 
 
 <item>
-<title>4LIVERPOOL VS AC MILAN UCL 2005 [COLOR red]25/05/05[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.c7f4a923bc.swf</link>
+<title>LIVERPOOL VS AC MILAN UCL 2005 [COLOR red]25/05/05[/COLOR]</title>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -175,7 +175,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"720":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"720".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/embed/video/x2ikxi8</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -246,7 +246,7 @@
 
 <item>
 <title>ENGLAND VS HOLLAND EURO 1996 1ST HALF [COLOR red]18/06/96[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -254,7 +254,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/embed/video/x20m87a_england-vs-holland-euro-1996-1st-half_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -266,7 +266,7 @@
 
 <item>
 <title>ENGLAND VS HOLLAND EURO 1996 2ND HALF [COLOR red]18/06/96[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -274,7 +274,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/embed/video/x20mhba</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
@@ -312,7 +312,7 @@
 
 <item>
 <title>ENGLAND VS IRELAND EURO 88 [COLOR red]12/07/88[/COLOR]</title>
-<link>$doregex[final-url]|Referer=http://static1.dmcdn.net/playerv5/dmp.f94872300b.swf</link>
+<link>$doregex[final-url]</link>
 <regex>
 <name>final-url</name>
 <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
@@ -320,7 +320,7 @@
 </regex>
 <regex>
 <name>get-url</name>
-<expres>"480":..".*?":".*?",".*?":"(.*?)"</expres> 
+<expres>"480".*?video.*?mp4","url":"(.*?)"</expres> 
 <page>http://www.dailymotion.com/video/x3e8mcl_uefa-euro-1988-group-2-day-1-england-vs-ireland_sport</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
