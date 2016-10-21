@@ -1160,13 +1160,13 @@ http://widestream.io/embed-1838
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
 <link>http://hitbox.gcdn.co/hls/tany2/index.m3u8?st=RfOShfpT4vtSK7uTN7LGXw;ci=vhLBaZbUzDNf7T8FFQYqng</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
 <link>https://hitbox.gcdn.co/hls/krfu/index.m3u8?st=GwxkABK8XQ5C8h4uBDT0pQ;ci=qBd4BWq06ZtFIPkRnRk4RA</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1762,14 +1762,13 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
+FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
 <sportsdevil>http://streamhub.live/hd/hd.php</sportsdevil>
 <referer>http://streamhub.live/hd/hd.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
 <sportsdevil>widestream.io/embed-2380</sportsdevil>
 <referer>widestream.io/</referer>
