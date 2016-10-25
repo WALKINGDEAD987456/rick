@@ -1762,7 +1762,8 @@ http://widestream.io/embed-1838
 </regex>
 </item>
 
-FOOTBALL [COLOR red]INTER MILAN VS SOUTHAMPTON[/COLOR]</title>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]ONLINE[/COLOR]</title>
 <sportsdevil>http://streamhub.live/hd/hd.php</sportsdevil>
 <referer>http://streamhub.live/hd/hd.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
