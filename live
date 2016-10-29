@@ -1191,7 +1191,7 @@ http://sjc-ucdn01.ustream.tv/wdc04-uhs02/live/22779720/1477739341085/plain/uhs/1
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
 <link>rtmp://$doregex[get_rtmp]/flash app=flash playpath=$doregex[get_file]?$doregex[get_key]$doregex[get_Clear_keyB] conn=S:OK swfUrl=http://static3.sawlive.tv/player.swf flashver=WIN\2023,0,0,162 swfVfy=1 live=1 timeout=13 pageUrl=http://www.sawlive.tv/embed/watch/$doregex[get_Clear_key1]$doregex[get_key2]</link>
 <regex>
