@@ -1159,7 +1159,7 @@ http://widestream.io/embed-1838
 
 http://sjc-ucdn01.ustream.tv/wdc04-uhs02/live/22779720/1477739341085/plain/uhs/1/chunk_1477739387_2acd3c68e4.flv
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/uhls/22779720/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
@@ -1171,13 +1171,13 @@ http://sjc-ucdn01.ustream.tv/wdc04-uhs02/live/22779720/1477739341085/plain/uhs/1
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
 <link>http://hitbox.gcdn.co/hls/zkqc/index.m3u8?st=6FJpnN0007xZngUZN2KeJA;ci=-sN8hA5sPS4-sZ1sM60w-Q</link>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>test</title>
 <link>$doregex[get-link]</link>
 <regex>
@@ -1191,7 +1191,7 @@ http://sjc-ucdn01.ustream.tv/wdc04-uhs02/live/22779720/1477739341085/plain/uhs/1
 
 
 
-
+<item>
 <title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
 <link>rtmp://$doregex[get_rtmp]/flash app=flash playpath=$doregex[get_file]?$doregex[get_key]$doregex[get_Clear_keyB] conn=S:OK swfUrl=http://static3.sawlive.tv/player.swf flashver=WIN\2023,0,0,162 swfVfy=1 live=1 timeout=13 pageUrl=http://www.sawlive.tv/embed/watch/$doregex[get_Clear_key1]$doregex[get_key2]</link>
 <regex>
@@ -1781,8 +1781,7 @@ http://sjc-ucdn01.ustream.tv/wdc04-uhs02/live/22779720/1477739341085/plain/uhs/1
 </regex>
 </item>
 
-<item>
-<title>LIVE - FOOTBALL [COLOR green]ONLINE[/COLOR]</title>
+
 <sportsdevil>http://streamhub.live/hd/hd.php</sportsdevil>
 <referer>http://streamhub.live/hd/hd.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
