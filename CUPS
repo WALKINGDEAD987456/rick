@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>test/title>
+<title>test</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=87&amp;name=Recent Football Highlights/Live Streams&amp;url=HL,0,0</jsonrpc>
 <thumbnail>http://img11.hostingpics.net/pics/365638LIVE.png</thumbnail>
