@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>LIVE</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>file: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://streamhdeu.com/player1/stream2.php</page>
-<referer>http://streamhdeu.com/</referer>
-</regex>
-<thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>FA CUP HIGHLIGHTS ROUND 1 [COLOR red]05.11.16[/COLOR]</title>
