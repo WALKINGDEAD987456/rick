@@ -6,14 +6,14 @@
 <thumbnail>http://www.clipartbest.com/cliparts/LiK/pEM/LiKpEMaia.png</thumbnail>
 </item>
 
-<item>
+
 <title>SPORTSCENE [COLOR red]06.11.16[/COLOR]</title>
 <link>https://spacebunny.stream.moe/ad57?download_token=a6446b9c905af8961241644e6482b30c0ecb6415980929848db86dcfd1dccc67</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/45393000/jpg/_45393336_sportscene_512.jpg</thumbnail>
 <fanart>http://i.dailymail.co.uk/i/pix/2016/05/06/00/28B921F600000578-0-BBCScotland_are_insisting_the_SPFL_place_four_cameras_at_every_g-a-10_1462492583254.jpg</fanart>
 </item>     
 
-<item>
+
 <title>SPORTSCENE [COLOR red]30.10.16[/COLOR]</title>
 <link>https://spacebunny.stream.moe/abgo?download_token=2746544e1ca71e20fcc01e39a96d4a547d586085b45b725ed0dbce5bd4aa5399</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/45393000/jpg/_45393336_sportscene_512.jpg</thumbnail>
@@ -21,7 +21,7 @@
 </item> 
 
 <item>
-<title>Sportscene 2016-11-06</title>
+<title>SPORTSCENE [COLOR red]06.11.16[/COLOR]</title>
 <link>$doregex[getUrl]</link>
 <regex>
 <name>getUrl</name>
@@ -29,4 +29,19 @@
 <page>https://spacebunny.stream.moe/ad57</page>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://newsimg.bbc.co.uk/media/images/45393000/jpg/_45393336_sportscene_512.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2016/05/06/00/28B921F600000578-0-BBCScotland_are_insisting_the_SPFL_place_four_cameras_at_every_g-a-10_1462492583254.jpg</fanart>
+</item>
+
+<item>
+<title>SPORTSCENE [COLOR red]30.10.16[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres>source src="(.*?)" type="video</expres>
+<page>https://spacebunny.stream.moe/abgo</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://newsimg.bbc.co.uk/media/images/45393000/jpg/_45393336_sportscene_512.jpg</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2016/05/06/00/28B921F600000578-0-BBCScotland_are_insisting_the_SPFL_place_four_cameras_at_every_g-a-10_1462492583254.jpg</fanart>
 </item>
