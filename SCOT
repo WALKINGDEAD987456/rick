@@ -19,3 +19,14 @@
 <thumbnail>http://newsimg.bbc.co.uk/media/images/45393000/jpg/_45393336_sportscene_512.jpg</thumbnail>
 <fanart>http://i.dailymail.co.uk/i/pix/2016/05/06/00/28B921F600000578-0-BBCScotland_are_insisting_the_SPFL_place_four_cameras_at_every_g-a-10_1462492583254.jpg</fanart>
 </item> 
+
+<item>
+<title>Sportscene 2016-11-06</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres>source src="(.*?)" type="video</expres>
+<page>https://spacebunny.stream.moe/ad57</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
