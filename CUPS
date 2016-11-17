@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
+<item>
+<title>FA CUP HIGHLIGHTS ROUND 2 DRAW [COLOR red]05.11.16[/COLOR]</title>
+<link>$doregex[GetUrl]</link>
+<regex>
+<name>GetUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://vimeo.com/190619263/bb0f659233'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/25/FACupTall.png/revision/latest?cb=20150408191137</thumbnail>
+<fanart>https://i.ytimg.com/vi/O_JrKSKoc_Q/maxresdefault.jpg</fanart>
+</item>
 
 <item>
 <title>FA CUP HIGHLIGHTS ROUND 1 [COLOR red]05.11.16[/COLOR]</title>
