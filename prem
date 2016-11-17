@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-
+<item>
+<title>http</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*mp4.*?)"</expres>
+<page>https://player.vimeo.com/external/191366147.hd.mp4?s=66cd7d7fdb78fbb3a88939a196d74dad8e0108bb&profile_id=174</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
 <title>GOAL RUSH ON 5 [COLOR red]12.11.16[/COLOR]</title>
