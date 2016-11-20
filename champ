@@ -10,7 +10,23 @@
 
 
 
-
+<item>
+<title>MATCH OF THE DAY [COLOR red]19.11.16[/COLOR]</title>
+<link>$doregex[GetUrl]</link>
+<regex>
+<name>GetUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://vimeo.com/192295936/e61ec70f24'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/84/Match_of_the_Day.png</thumbnail>
+<fanart>http://www.watchonlinematch.com/wp-content/uploads/2015/08/Match-of-the-Day-MOTD-29815-Watch-Online-Free-01.png</fanart>
+</item>
 
 <item>
 <title>PREMIER LEAGUE WORLD [COLOR red]10.11.16[/COLOR]</title>
