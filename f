@@ -111,9 +111,7 @@
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
     <name>PREMIER LEAGUE -: GOALS AND HIGHLIGHTS</name>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png</thumbnail>
 <link>http://ignoreme</link>
@@ -123,9 +121,7 @@
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
     <name>MONDAY NIGHT FOOTBALL SHOW</name>
 <thumbnail>https://pbs.twimg.com/profile_images/502484793401950210/jhoaDbC0.png</thumbnail>
 <link>http://ignoreme</link>
@@ -136,9 +132,7 @@
 </channels>
 
 
-<channels>
- 
-<channel>
+
 <name>EFL -: GOALS AND HIGHLIGHTS</name>
 <thumbnail>http://e0.365dm.com/16/08/16-9/30/efl-weekly-promo_3756596.jpg?20160802155139</thumbnail>
 <link>http://ignoreme</link>
@@ -148,9 +142,7 @@
 </channels>
 
 
-<channels>
- 
-<channel>
+
 <name>[COLOR yellow]2016/17[/COLOR] -: CUP COMPETITION HIGHLIGHTS</name>
 <thumbnail>https://cdn0.iconfinder.com/data/icons/flatico/512/trophy-512.png</thumbnail>
 <link>http://ignoreme</link>
@@ -159,9 +151,7 @@
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
 <name>SCOTTISH -: GOALS AND HIGHLIGHTS</name>
 <thumbnail>http://spfl.co.uk/docs/067_324__067_324__spfl609x350_1416841682_standard_1462442503_standard.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -171,9 +161,7 @@
 </channels>
 
 
-<channels>
- 
-<channel>
+
 <name>EUROPEAN FOOTBALL -: HIGHLIGHTS AND GOALS</name>
 <thumbnail>http://i.imgur.com/rzA8F9y.png?1</thumbnail>
 <link>http://ignoreme</link>
@@ -192,9 +180,7 @@
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
 <name>BOX OFFICE EVENT REPLAYS</name>
 <thumbnail>http://www.payperviewliveevents.com/wp-content/uploads/ppv-events-10.png</thumbnail>
 <link>http://ignoreme</link>
@@ -214,9 +200,7 @@
 
 <channels>
  
-<channels>
- 
-<channel>
+
 <name>FOOTBALL MATCH ARCHIVE ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
 <thumbnail>http://www.freewebs.com/captainbeecher/enfalogo1.gif</thumbnail>
 <link>http://ignoreme</link>
@@ -225,9 +209,7 @@
 </channel>
 </channels>
  
-<channels>
- 
-<channel>
+
 <name>GREATEST SPORTING MOMENTS ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
 <thumbnail>http://i64.tinypic.com/313ixyq.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -236,9 +218,7 @@
 </channel>
 </channels>
 
-<channels>
- 
-<channel>
+
 <name>SPORTING DOCUMENTARIES ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
 <thumbnail>https://yt3.ggpht.com/-N5O6-Y44W8w/AAAAAAAAAAI/AAAAAAAAAAA/kT8Pyh45W2A/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <link>http://ignoreme</link>
