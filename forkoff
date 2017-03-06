@@ -112,6 +112,26 @@
 </channels>
 
 
+
+
+<channels>
+ 
+<channel>
+ <name>LIVE SPORTS LINKS</name>
+<thumbnail>http://i63.tinypic.com/2eph4c5.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/live</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+
+
+
     <name>PREMIER LEAGUE -: GOALS AND HIGHLIGHTS</name>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png</thumbnail>
 <link>http://ignoreme</link>
