@@ -229,8 +229,10 @@
 </channel>
 </channels>
  
-
-<name>GREATEST SPORTING MOMENTS ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
+<channels>
+ 
+<channel>
+<name>GREATEST SPORTING MOMENTS</name>
 <thumbnail>http://i64.tinypic.com/313ixyq.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/old</externallink>
