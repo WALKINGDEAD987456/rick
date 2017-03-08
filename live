@@ -144,6 +144,12 @@
 
 <item>
 <title>LIVE - FOOTBALL [COLOR red]Barcalona vs Paris Saint German[/COLOR]</title>
+<link>http://hitboxht.vo.llnwd.net/e2/hls/ll/tzks/index.m3u8</link>
+<thumbnail>http://cdn.bleacherreport.net/images/team_logos/328x328/uefa_champions_league.png</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Barcalona vs Paris Saint German[/COLOR]</title>
 <sportsdevil>http://watchhdsports.xyz/fs1</sportsdevil>
 <referer>http://watchhdsports.xyz/fs1</referer>
 <thumbnail>http://cdn.bleacherreport.net/images/team_logos/328x328/uefa_champions_league.png</thumbnail>
@@ -174,6 +180,12 @@
 <sportsdevil>http://bonstreams.net/streams/ch4.php</sportsdevil>
 <referer>http://bonstreams.net/streams/ch4.php</referer>
 <thumbnail>http://i65.tinypic.com/bi04uf.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Borussia Dortmund vs Benfica[/COLOR]</title>
+<link>http://hitboxht.vo.llnwd.net/e2/hls/ll/xeavx/index.m3u8</link>
+<thumbnail>http://cdn.bleacherreport.net/images/team_logos/328x328/uefa_champions_league.png</thumbnail>
 </item>
 
 <item>
@@ -221,3 +233,4 @@
 http://bonstreams.net/streams/ch2.php
 http://hitboxht.vo.llnwd.net/e2/hls/ll/l00ll/index.m3u8
 http://watchhdsports.xyz/fs1
+http://hitboxht.vo.llnwd.net/e2/hls/ll/xeavx/index.m3u8
