@@ -99,6 +99,23 @@
 </channel>
 </channels>
 
+
+
+
+
+
+<channels>
+ 
+<channel>
+ <name>LIVE SPORTS LINKS</name>
+<thumbnail>http://i63.tinypic.com/2eph4c5.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/live</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
  
 <channel>
@@ -117,26 +134,11 @@
 <channels>
  
 <channel>
- <name>LIVE SPORTS LINKS</name>
-<thumbnail>http://i63.tinypic.com/2eph4c5.jpg</thumbnail>
+    <name>GOALS GOALS AND MORE GOALS</name>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/81RJNDbOEiL.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/live</externallink>
-<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-
-
-
-
-
-
-    <name>PREMIER LEAGUE -: GOALS AND HIGHLIGHTS</name>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/champ</externallink>
-<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/GOALS</externallink>
+<fanart>http://i2.coventrytelegraph.net/incoming/article11079034.ece/ALTERNATES/s1227b/h_00465548.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -220,7 +222,9 @@
 
 <channels>
  
-
+<channels>
+ 
+<channel>
 <name>FOOTBALL MATCH ARCHIVE ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
 <thumbnail>http://www.freewebs.com/captainbeecher/enfalogo1.gif</thumbnail>
 <link>http://ignoreme</link>
