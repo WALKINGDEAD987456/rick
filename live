@@ -148,7 +148,7 @@
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/25/FACupTall.png/revision/latest?cb=20150408191137</thumbnail>
 </item>
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Rangers vs Celtic[/COLOR]</title>
 <sportsdevil>http://sportsntvlive.com/frames/skysports1inner.php</sportsdevil>
 <referer>http://sportsntvlive.com/frames/skysports1inner.php</referer>
@@ -157,7 +157,7 @@
 
 
 
-<item>
+
 <title>LIVE - FOOTBALL [COLOR red]Rangers vs Celtic[/COLOR]</title>
 <sportsdevil>http://www.eplsite.org/stream10.html</sportsdevil>
 <referer>http://www.eplsite.org/stream10.html</referer>
@@ -207,10 +207,10 @@
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/25/FACupTall.png/revision/latest?cb=20150408191137</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]Rostov vs Manchester united[/COLOR]</title>
-<sportsdevil>http://bonstreams.net/streams/ch2.php</sportsdevil>
-<referer>http://bonstreams.net/streams/ch2.php</referer>
+<item>
+<title>LIVE - FOOTBALL [COLOR red]Manchester United vs Rostov[/COLOR]</title>
+<sportsdevil>http://stream-cr7.net/ch3jw.php</sportsdevil>
+<referer>http://stream-cr7.net/ch3jw.php</referer>
 <thumbnail>http://www.footballzz.com/img/logos/competicoes/28_imgbank_el_20150714123241.png</thumbnail>
 
 
