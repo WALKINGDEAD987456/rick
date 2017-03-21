@@ -211,16 +211,16 @@
 <thumbnail>http://www.footballzz.com/img/logos/competicoes/28_imgbank_el_20150714123241.png</thumbnail>
 </item>
 
-
-<title>LIVE - FOOTBALL [COLOR red]Manchester United vs Rostov[/COLOR]</title>
-<link>>http://hitboxht.vo.llnwd.net/e2/hls/ll/kxvz/index.m3u8</link>
-<thumbnail>http://www.footballzz.com/img/logos/competicoes/28_imgbank_el_20150714123241.png</thumbnail>
+<item>
+<title>TEST 3</title>
+<link>https://openload.co/embed/rHt7Ykhmt7E/</link>
+<thumbnail></thumbnail>
 </item>
 
-<item>
+
 <title>TEST2</title>
 <sportsdevil>https://openload.co/embed/rHt7Ykhmt7E/</sportsdevil>
-<referer>https://openload.co/embed/rHt7Ykhmt7E/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 </item>
 
