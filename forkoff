@@ -128,7 +128,17 @@
 </channel>
 </channels>
 
-
+<channels>
+ 
+<channel>
+    <name>FULL GAME HIGHLIGHTS [COLOR yellow]ON REQUEST[/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/lRMu5V7UjwsPc0ru5awWKornocE3T1FNT9wIhM4RnEFgOalCYDyJMtDFAU4MQi7Q4o3v=w300</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/FULL</externallink>
+<fanart>http://i65.tinypic.com/bbtld.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 
 <channels>
@@ -225,7 +235,7 @@
 <channels>
  
 <channel>
-<name>FOOTBALL MATCH ARCHIVE ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
+<name>OLD FOOTBALL MATCH'S ARCHIVE ( [COLOR yellow]CONTACT ME ON TWITTER TO ADD REQUESTS[/COLOR] )</name>
 <thumbnail>http://www.freewebs.com/captainbeecher/enfalogo1.gif</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/WALKINGDEAD987456/rick/master/FOOTBALLARCH</externallink>
